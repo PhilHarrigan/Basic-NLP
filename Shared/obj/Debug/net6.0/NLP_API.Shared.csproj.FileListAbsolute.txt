@@ -1,0 +1,12 @@
+D:\MSSA Program\NLP_API\Shared\bin\Debug\net6.0\NLP_API.Shared.deps.json
+D:\MSSA Program\NLP_API\Shared\bin\Debug\net6.0\NLP_API.Shared.dll
+D:\MSSA Program\NLP_API\Shared\bin\Debug\net6.0\NLP_API.Shared.pdb
+D:\MSSA Program\NLP_API\Shared\obj\Debug\net6.0\NLP_API.Shared.csproj.AssemblyReference.cache
+D:\MSSA Program\NLP_API\Shared\obj\Debug\net6.0\NLP_API.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSSA Program\NLP_API\Shared\obj\Debug\net6.0\NLP_API.Shared.AssemblyInfoInputs.cache
+D:\MSSA Program\NLP_API\Shared\obj\Debug\net6.0\NLP_API.Shared.AssemblyInfo.cs
+D:\MSSA Program\NLP_API\Shared\obj\Debug\net6.0\NLP_API.Shared.csproj.CoreCompileInputs.cache
+D:\MSSA Program\NLP_API\Shared\obj\Debug\net6.0\NLP_API.Shared.dll
+D:\MSSA Program\NLP_API\Shared\obj\Debug\net6.0\refint\NLP_API.Shared.dll
+D:\MSSA Program\NLP_API\Shared\obj\Debug\net6.0\NLP_API.Shared.pdb
+D:\MSSA Program\NLP_API\Shared\obj\Debug\net6.0\ref\NLP_API.Shared.dll

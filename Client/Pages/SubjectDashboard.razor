@@ -1,0 +1,59 @@
+﻿@page "/Subjects"
+@inject HttpClient HttpClient
+@using NLP_API.Shared
+@using System.Text.Json;
+
+<div>
+    <h1>@newSubject.Subject</h1>
+    <div class="col-12 col-sm-12 col-md-12 col-lg-8 col-xl-8">
+        <h3>Keys</h3>
+        <div class="row" id="keysGoHere">
+@*            @foreach(var item in TupleTest)
+            {
+                <div>@item</div>
+            }*@
+            <button onclick="addDivs(@test);">click me!</button>
+            @foreach (var sub in subjectEntities)
+            {
+                <div class="col-12 col-sm-6 col-md-6 col-lg-6 col-xl-4 mh-25 mb-4">
+                    @sub.Subject
+                    @foreach(string key in sub.data.Keys)
+                    {
+                        <div>@key</div>
+                    }
+                </div>
+            }
+        </div>
+    </div>
+</div>
+<div>
+    @test;
+</div>
+
+@code {
+    private SubjectEntity newSubject = new();
+    //private Dictionary<string, Dictionary<string, List<string>>> data = new Dictionary<string, Dictionary<string, List<string>>>();
+    private List<SubjectEntity> subjectEntities = new();
+    private string test = String.Empty;
+    private List<Tuple<string, string, string, string, string>> TupleTest = new();
+    //private List<string> listTest;
+    protected override async Task OnInitializedAsync()
+    {
+        subjectEntities = await HttpClient.GetFromJsonAsync<List<SubjectEntity>>("SubjectEntities/List");
+        foreach(SubjectEntity sub in subjectEntities)
+        {
+            string subject = sub.Subject;
+            TupleTest = await HttpClient.GetFromJsonAsync<List<Tuple<string, string, string, string, string>>>($"SubjectEntities/{subject}");
+            sub.buildDict(TupleTest);
+        }
+    }
+    private async Task GetDetails()
+    {
+        SubjectEntity placeHolder = new();
+        placeHolder = await HttpClient.GetFromJsonAsync<SubjectEntity>("SubjectEntities/chinese leader xi jinping");
+    }
+    private string lookAtJson(SubjectEntity entity)
+    {
+        return JsonSerializer.Serialize(entity.data, new JsonSerializerOptions { WriteIndented = true });
+    }
+}

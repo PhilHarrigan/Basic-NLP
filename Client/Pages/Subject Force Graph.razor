@@ -1,0 +1,111 @@
+﻿@page "/SubjectsForceGraph"
+@inject HttpClient HttpClient
+@using NLP_API.Shared
+@using System.Text.Json;
+@inject IJSRuntime JS;
+
+<div id = "wrapper">
+    <div id="navBar">
+        <button id="article" onclick="displayTextArea();">Enter New Article</button>
+        <button id="oldArticle" onclick="displayArticleSelection();">Load Previous Article</button>
+        <div id="articleSelect" @onmouseover=ddCreate class="hidden">Select Your Article &#9660</div>
+        <button id="startGraph" @onclick=cStartGraph disabled>Start Graph</button>
+        <button id="clearGraph" class="hidden" onclick="clearGraph();">Clear Graph</button>
+    </div>
+    <div id="dataInputWrapper" class="hidden">
+        <label for="articleName">Article Name (100 Character Max)</label>
+        <input id="articleName" type="text" />
+        <label for="dataInput">Type or paste article content here: (Min 50 Words)</label>
+        <textarea id="dataInput"></textarea>
+        <button id="sendData" @onclick=newArticle>Analyze Data</button>
+    </div>
+    <div id="containerDiv" class="hidden">
+        <svg id="container"></svg>
+    </div>
+</div>
+<div id = "data" dataJSON="@dataJSON">@dataJSON</div>
+<div id="articlesList" articleList="@articleList">@articleList</div>
+<div id="currentArticle" currentArticle="0">0</div>
+
+@code {
+    private SubjectEntity newSubject = new();
+    private static List<SubjectEntity> subjectEntities = new();
+    private List<Tuple<string, string, string, string, string>> TupleTest = new();
+    private Dictionary<string, List<string>> forceDictionary = new();
+    private List<Tuple<int, string>> articleTuple = new();
+    private string dataJSON;
+    private string articleList;
+    private static bool hovered = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        articleTuple = await HttpClient.GetFromJsonAsync<List<Tuple<int,string>>>("SubjectEntities/articleList");
+        articleList = JsonSerializer.Serialize(articleTuple);
+    }
+    public async Task cStartGraph()
+    {
+        JS.InvokeAsync<bool>("loading");
+        int articleNum = await JS.InvokeAsync<int>("getCurrentArticle");
+        subjectEntities = await HttpClient.GetFromJsonAsync<List<SubjectEntity>>("SubjectEntities/List");
+        foreach(SubjectEntity sub in subjectEntities)
+        {
+            string subject = sub.Subject;
+            TupleTest = await HttpClient.GetFromJsonAsync<List<Tuple<string, string, string, string, string>>>($"SubjectEntities/sg/{subject}/{articleNum}");
+            sub.buildDict(TupleTest);
+        }
+        foreach(SubjectEntity sub in subjectEntities)
+        {
+            if (sub.Relations.ContainsKey("article" + articleNum.ToString()))
+                forceDictionary.Add(sub.Subject.Trim(), sub.Relations["article" + articleNum.ToString()]);
+        }
+        dataJSON = JsonSerializer.Serialize(forceDictionary);
+        JS.InvokeVoidAsync("startGraph");
+        //JS.InvokeAsync<bool>("startGraph");
+        JS.InvokeVoidAsync("removeLoading");
+    }
+    //public string getSubjectJSON(string name){
+    //    var selectedSubject = subjectEntities.First(c => c.Subject == name);
+    //    return selectedSubject.stringify();
+    //}
+    [JSInvokable]
+    public static string callGetSubjectJSON(string name)
+    {
+        var selectedSubject = subjectEntities.First(c => c.Subject == name);
+        Console.WriteLine(selectedSubject.stringify());
+        return selectedSubject.stringify();
+    }
+    public async Task newArticle()
+    {
+        JS.InvokeVoidAsync("loading");
+        int articleNum = await JS.InvokeAsync<int>("newArticleGetCurrentArticle");
+        string data = await JS.InvokeAsync<string>("sendArticle");
+        string[] dataSplit = data.Split("|||");
+        string title = dataSplit[0];
+        string article = dataSplit[1].Replace("\n", " ");
+        Dictionary<string, string> test = await HttpClient.GetFromJsonAsync<Dictionary<string, string>>($"SubjectEntities/{title}/{article}");
+        //Console.WriteLine(JsonSerializer.Serialize(test));
+        if (test["status"] == "success")
+        {
+            JS.InvokeVoidAsync("removeLoading");
+            //cStartGraph();
+        }
+        else
+        {
+            JS.InvokeVoidAsync("sendAlert");
+        }
+        JS.InvokeVoidAsync("removeLoading");
+    }
+    public void ddCreate()
+    {
+        if (!hovered)
+        {
+            JS.InvokeAsync<bool>("buildDropDown");
+            hovered = true;
+        }
+    }
+    [JSInvokable]
+    public static void ddLeave()
+    {
+        hovered = false;
+    }
+}

@@ -1,0 +1,8071 @@
+{
+  "hyphenatedNonWords": {
+    "PLACEHOLDER": 0,
+    "legally-mandated": 0,
+    "coivd-19": 0,
+    "indo-pacific": 0,
+    "high-level": 0,
+    "covid-19": 0,
+    "working-level": 0,
+    "sino-u.s": 0,
+    "china-u.s": 0,
+    "u.s-china": 0,
+    "co-operate": 0,
+    "co-operated": 0,
+    "china-russia": 0,
+    "country-wide": 0,
+    "after-action": 0,
+    "years-long": 0,
+    "election-meddling": 0,
+    "never-before-seen": 0,
+    "son-in-law": 0,
+    "all-hands": 0,
+    "high-profile": 0,
+    "longer-term": 0,
+    "anti-aircraft": 0,
+    "decades-long": 0,
+    "us-made": 0,
+    "f-35a": 0,
+    "co-star": 0,
+    "255-foot": 0,
+    "sell-off": 0,
+    "short-lived": 0,
+    "tech-heavy": 0,
+    "bear-market": 0,
+    "52-week": 0,
+    "fast-growing": 0,
+    "rate-sensitive": 0,
+    "price-to-earnings": 0,
+    "non-incumbents": 0,
+    "democratic-controlled": 0,
+    "state-run": 0,
+    "high-stakes": 0,
+    "cost-free": 0,
+    "so-called": 0
+  },
+  "and": {
+    "conjunction": 1
+  },
+  "reported": {
+    "past tense verb": 1
+  },
+  "report": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "reporter": {
+    "noun": 1
+  },
+  "the": {
+    "definite article": 1,
+    "adverb": 0,
+    "preposition": 0,
+    "combining form": 0
+  },
+  "details": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "detail": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "detailer": {
+    "noun": 1
+  },
+  "of": {
+    "preposition": 1,
+    "auxiliary verb": 0,
+    "abbreviation": 0
+  },
+  "deal": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "noun (1)": 0,
+    "noun (2)": 0,
+    "noun (3)": 0
+  },
+  "dealer": {
+    "noun": 1
+  },
+  "first": {
+    "adjective": 1,
+    "adverb": 0,
+    "noun": 0
+  },
+  "by": {
+    "preposition": 1,
+    "adverb": 0,
+    "noun": 0,
+    "adjective": 0,
+    "interjection": 0
+  },
+  "guardian": {
+    "noun": 1
+  },
+  "guardianship": {
+    "noun": 1
+  },
+  "newspaper": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0
+  },
+  "remain": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "hazy": {
+    "adjective": 1
+  },
+  "hazily": {
+    "adverb": 1
+  },
+  "haziness": {
+    "noun": 1
+  },
+  "local": {
+    "adjective": 1,
+    "noun": 0
+  },
+  "locally": {
+    "adverb": 1
+  },
+  "public": {
+    "adjective": 1,
+    "noun": 0
+  },
+  "publicness": {
+    "noun": 1
+  },
+  "publicly": {
+    "adverb": 1
+  },
+  "policy": {
+    "noun (1)": 1,
+    "noun (2)": 0
+  },
+  "research": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "researchable": {
+    "adjective": 1
+  },
+  "researcher": {
+    "noun": 1
+  },
+  "organizations": {
+    "noun": 1,
+    "adjective": 0
+  },
+  "organization": {
+    "noun": 1,
+    "adjective": 0
+  },
+  "organizational": {
+    "adjective": 1
+  },
+  "institute": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "instituter": {
+    "noun": 1
+  },
+  "for": {
+    "preposition": 1,
+    "conjunction": 0,
+    "abbreviation (1)": 0,
+    "abbreviation (2)": 0,
+    "prefix": 0
+  },
+  "legal": {
+    "adjective": 1,
+    "noun": 0
+  },
+  "legally": {
+    "adverb": 1
+  },
+  "advocacy": {
+    "noun": 1
+  },
+  "justice": {
+    "noun": 1
+  },
+  "namati": {
+    "noun": 1
+  },
+  "": {
+    "noun": 1,
+    "adjective": 0,
+    "conjunction": 0,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "sierra": {
+    "noun": 1
+  },
+  "leone": {
+    "noun": 1
+  },
+  "have": {
+    "verb": 1,
+    "transitive verb": 0,
+    "auxiliary verb": 0,
+    "noun": 0
+  },
+  "written": {
+    "adjective": 1
+  },
+  "to": {
+    "preposition": 1,
+    "adverb": 0,
+    "abbreviation": 0
+  },
+  "government": {
+    "noun": 1
+  },
+  "governmental": {
+    "adjective": 1
+  },
+  "governmentalize": {
+    "adverb": 1
+  },
+  "governmentally": {
+    "adverb": 1
+  },
+  "requesting": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "request": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "information": {
+    "noun": 1
+  },
+  "informational": {
+    "adjective": 1
+  },
+  "informationally": {
+    "adverb": 1
+  },
+  "informed": {
+    "verb": 1
+  },
+  "on": {
+    "preposition": 1,
+    "adverb": 0,
+    "adjective": 0,
+    "abbreviation": 0,
+    "noun suffix (1)": 0,
+    "noun suffix (2)": 0,
+    "noun suffix (3)": 0
+  },
+  "plans": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "combining form": 0
+  },
+  "plan": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "combining form": 0
+  },
+  "planless": {
+    "adjective": 1
+  },
+  "planlessly": {
+    "adverb": 1
+  },
+  "planlessness": {
+    "noun": 1
+  },
+  "establish": {
+    "verb": 1,
+    "transitive verb": 0
+  },
+  "establishable": {
+    "adjective": 1
+  },
+  "establisher": {
+    "noun": 1
+  },
+  "a": {
+    "noun": 0,
+    "indefinite article": 1,
+    "preposition (1)": 0,
+    "preposition (2)": 0,
+    "verb": 0,
+    "abbreviation (1)": 0,
+    "prefix (1)": 0,
+    "prefix (2)": 0,
+    "combining form": 0,
+    "noun suffix": 0,
+    "abbreviation (2)": 0,
+    "symbol": 0,
+    "abbreviation (3)": 0
+  },
+  "fish": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0,
+    "transitive verb": 0
+  },
+  "fishless": {
+    "adjective": 1
+  },
+  "fishlike": {
+    "adjective": 1
+  },
+  "fishability": {
+    "noun": 1
+  },
+  "fishable": {
+    "adjective": 1
+  },
+  "harbour": {
+    "noun": 1
+  },
+  "setting": {
+    "noun": 1
+  },
+  "carry": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "out": {
+    "adverb": 1,
+    "verb": 0,
+    "preposition": 0,
+    "adjective": 0,
+    "noun": 0,
+    "prefix": 0
+  },
+  "waste": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "adjective": 0
+  },
+  "management": {
+    "noun": 1
+  },
+  "managemental": {
+    "adjective": 1
+  },
+  "operations": {
+    "noun": 1
+  },
+  "operation": {
+    "noun": 1
+  },
+  "at": {
+    "preposition": 1,
+    "noun": 0,
+    "abbreviation (1)": 0,
+    "verb": 0,
+    "transitive verb": 0,
+    "symbol": 0,
+    "abbreviation (2)": 0,
+    "prefix": 0
+  },
+  "black": {
+    "adjective": 1,
+    "noun": 0,
+    "verb": 0,
+    "intransitive verb": 0,
+    "transitive verb": 0
+  },
+  "blackish": {
+    "adjective": 1
+  },
+  "blackly": {
+    "adverb": 1
+  },
+  "blackness": {
+    "noun": 1
+  },
+  "johnson": {
+    "noun": 1
+  },
+  "johnsonian": {
+    "adjective": 1
+  },
+  "in": {
+    "preposition": 1,
+    "adverb": 0,
+    "adjective": 0,
+    "noun": 0,
+    "abbreviation (1)": 0,
+    "symbol": 0,
+    "abbreviation (2)": 0,
+    "prefix (1)": 0,
+    "prefix (2)": 0,
+    "noun suffix": 0,
+    "noun combining form": 0
+  },
+  "western": {
+    "adjective": 1,
+    "noun": 0
+  },
+  "area": {
+    "noun": 1
+  },
+  "peninsula": {
+    "noun": 1
+  },
+  "peninsular": {
+    "adjective": 1
+  },
+  "project": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "projectable": {
+    "adjective": 1
+  },
+  "funded": {
+    "past tense verb": 1
+  },
+  "fund": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "abbreviation": 0
+  },
+  "funder": {
+    "noun": 1
+  },
+  "china": {
+    "noun": 1
+  },
+  "groups": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "group": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "groupable": {
+    "adjective": 1
+  },
+  "are": {
+    "noun": 1
+  },
+  "copies": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "copy": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "mandated": {
+    "adjective": 1
+  },
+  "environmental": {
+    "noun": 1
+  },
+  "environment": {
+    "noun": 1
+  },
+  "environmentally": {
+    "adverb": 1
+  },
+  "social": {
+    "adjective": 1,
+    "noun": 0
+  },
+  "socially": {
+    "adverb": 1
+  },
+  "impact": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "assessments": {
+    "noun": 1
+  },
+  "assessment": {
+    "noun": 1
+  },
+  "along": {
+    "preposition": 1,
+    "adverb": 0
+  },
+  "with": {
+    "preposition": 1
+  },
+  "grant": {
+    "verb": 1,
+    "transitive verb": 0,
+    "noun": 0
+  },
+  "grantable": {
+    "adjective": 1
+  },
+  "granter": {
+    "noun": 1
+  },
+  "grantor": {
+    "noun": 1
+  },
+  "agreement": {
+    "noun": 1
+  },
+  "between": {
+    "preposition": 1,
+    "adverb": 0
+  },
+  "leonean": {
+    "noun": 1
+  },
+  "both": {
+    "pronoun, plural in construction": 1,
+    "conjunction": 0,
+    "adjective": 0
+  },
+  "chinese": {
+    "noun": 1
+  },
+  "embassies": {
+    "noun": 1
+  },
+  "embassy": {
+    "noun": 1
+  },
+  "london": {
+    "noun": 1
+  },
+  "state": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "statable": {
+    "adjective": 1
+  },
+  "house": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "houseful": {
+    "noun": 1
+  },
+  "houseless": {
+    "adjective": 1
+  },
+  "houselessness": {
+    "noun": 1
+  },
+  "were": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "auxiliary verb": 0,
+    "symbol": 0,
+    "abbreviation (1)": 0,
+    "abbreviation (2)": 0,
+    "prefix": 0
+  },
+  "be": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "auxiliary verb": 0,
+    "symbol": 0,
+    "abbreviation (1)": 0,
+    "abbreviation (2)": 0,
+    "prefix": 0
+  },
+  "unavailable": {
+    "adjective": 1
+  },
+  "unavailability": {
+    "noun": 1
+  },
+  "comment": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "when": {
+    "adverb": 1,
+    "conjunction": 0,
+    "pronoun": 0,
+    "noun": 0
+  },
+  "contacted": {
+    "past tense verb": 1
+  },
+  "contact": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "adjective": 0
+  },
+  "cnbc": {
+    "noun": 1
+  },
+  "johnson\u2019s": {
+    "possessive noun": 1
+  },
+  "waters": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "water": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "rich": {
+    "adjective": 1
+  },
+  "richness": {
+    "noun": 1
+  },
+  "richly": {
+    "adverb": 1
+  },
+  "fishermen": {
+    "noun": 1
+  },
+  "fisherman": {
+    "noun": 1
+  },
+  "supply": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "supplier": {
+    "noun": 1
+  },
+  "substantial": {
+    "adjective": 1
+  },
+  "substantiality": {
+    "noun": 1
+  },
+  "substantially": {
+    "adverb": 1
+  },
+  "substantialness": {
+    "noun": 1
+  },
+  "portion": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "domestic": {
+    "adjective": 1,
+    "noun": 0
+  },
+  "domestically": {
+    "adverb": 1
+  },
+  "market": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "meanwhile": {
+    "noun": 1,
+    "adverb": 0
+  },
+  "national": {
+    "adjective": 1,
+    "noun": 0
+  },
+  "nationally": {
+    "adverb": 1
+  },
+  "park": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "parklike": {
+    "adjective": 1
+  },
+  "parker": {
+    "noun": 1
+  },
+  "houses": {
+    "plural noun": 1
+  },
+  "many": {
+    "adjective": 1,
+    "pronoun, plural in construction": 0,
+    "noun, plural in construction": 0
+  },
+  "endangered": {
+    "adjective": 1
+  },
+  "species": {
+    "noun": 1,
+    "adjective": 0
+  },
+  "u.s": {
+    "noun abbreviation": 1
+  },
+  "president": {
+    "noun": 1
+  },
+  "presidentship": {
+    "noun": 1
+  },
+  "presidential": {
+    "adjective": 1
+  },
+  "presidentially": {
+    "adverb": 1
+  },
+  "joe": {
+    "noun (1)": 1,
+    "noun (2)": 0
+  },
+  "biden": {
+    "noun": 1
+  },
+  "leader": {
+    "noun": 1
+  },
+  "leaderless": {
+    "adjective": 1
+  },
+  "leadership": {
+    "noun": 1
+  },
+  "xi": {
+    "noun": 1
+  },
+  "jinping": {
+    "noun": 1
+  },
+  "spoke": {
+    "noun": 0,
+    "verb": 1,
+    "transitive verb": 0
+  },
+  "90": {
+    "noun": 1
+  },
+  "ninety": {
+    "noun": 1
+  },
+  "ninetieth": {
+    "adjective": 1
+  },
+  "minutes": {
+    "noun": 1,
+    "adjective": 0,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "minute": {
+    "noun": 1,
+    "adjective": 0,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "minuteness": {
+    "noun": 1
+  },
+  "minutely": {
+    "adverb": 1
+  },
+  "thursday": {
+    "noun": 1
+  },
+  "thursdays": {
+    "adverb": 1
+  },
+  "their": {
+    "adjective": 1
+  },
+  "talks": {
+    "verb": 0,
+    "intransitive verb": 0,
+    "transitive": 0,
+    "noun": 1
+  },
+  "talk": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive": 0,
+    "noun": 0
+  },
+  "talker": {
+    "noun": 1
+  },
+  "seven": {
+    "noun": 1
+  },
+  "months": {
+    "noun": 1
+  },
+  "month": {
+    "noun": 1
+  },
+  "discussing": {
+    "verb": 1,
+    "transitive verb": 0
+  },
+  "discuss": {
+    "verb": 1,
+    "transitive verb": 0
+  },
+  "discussable": {
+    "adjective": 1
+  },
+  "discusser": {
+    "noun": 1
+  },
+  "need": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "auxiliary verb": 0
+  },
+  "ensure": {
+    "verb": 1,
+    "transitive verb": 0
+  },
+  "that": {
+    "pronoun (1)": 1,
+    "conjunction": 0,
+    "adjective": 0,
+    "pronoun (2)": 0,
+    "adverb": 0
+  },
+  "competition": {
+    "noun": 1
+  },
+  "world": {
+    "noun": 1,
+    "adjective": 0
+  },
+  "two": {
+    "adjective": 1,
+    "pronoun, plural in construction": 0,
+    "noun": 0
+  },
+  "largest": {
+    "adjective": 1,
+    "adverb": 0,
+    "noun": 0
+  },
+  "large": {
+    "adjective": 1,
+    "adverb": 0,
+    "noun": 0
+  },
+  "largeness": {
+    "noun": 1
+  },
+  "largish": {
+    "adjective": 1
+  },
+  "economies": {
+    "noun": 1,
+    "adjective": 0
+  },
+  "economy": {
+    "noun": 1,
+    "adjective": 0
+  },
+  "does": {
+    "noun": 1,
+    "abbreviation": 0
+  },
+  "doe": {
+    "noun": 1,
+    "abbreviation": 0
+  },
+  "not": {
+    "adverb": 1,
+    "noun": 0
+  },
+  "veer": {
+    "verb (1)": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "noun": 0,
+    "verb (2)": 0
+  },
+  "veeringly": {
+    "adverb": 1
+  },
+  "into": {
+    "preposition": 1
+  },
+  "conflict": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0
+  },
+  "conflictful": {
+    "adjective": 1
+  },
+  "conflictual": {
+    "adjective": 1
+  },
+  "confliction": {
+    "noun": 1
+  },
+  "conflictive": {
+    "adjective": 1
+  },
+  "conflictless": {
+    "adjective": 1
+  },
+  "side": {
+    "noun (1)": 1,
+    "adjective": 0,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun (2)": 0
+  },
+  "proof": {
+    "noun": 1,
+    "adjective": 0,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "proofer": {
+    "noun": 1
+  },
+  "will": {
+    "verb (1)": 1,
+    "auxiliary verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0,
+    "verb (2)": 0
+  },
+  "pudding": {
+    "noun": 1
+  },
+  "as": {
+    "plural noun": 1
+  },
+  "whether": {
+    "conjunction": 1,
+    "pronoun": 0
+  },
+  "stalemate": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "can": {
+    "verb (1)": 1,
+    "auxiliary verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0,
+    "verb (2)": 0,
+    "abbreviation (1)": 0,
+    "abbreviation (2)": 0
+  },
+  "canful": {
+    "noun": 1
+  },
+  "canner": {
+    "noun": 1
+  },
+  "broken": {
+    "adjective": 1
+  },
+  "brokenly": {
+    "adverb": 1
+  },
+  "brokenness": {
+    "noun": 1
+  },
+  "ties": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "tie": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "tieless": {
+    "adjective": 1
+  },
+  "superpowers": {
+    "noun": 1
+  },
+  "superpower": {
+    "noun": 1
+  },
+  "superpowered": {
+    "adjective": 1
+  },
+  "languishing": {
+    "verb": 1,
+    "intransitive verb": 0
+  },
+  "languish": {
+    "verb": 1,
+    "intransitive verb": 0
+  },
+  "languisher": {
+    "noun": 1
+  },
+  "languishingly": {
+    "adverb": 1
+  },
+  "languishment": {
+    "noun": 1
+  },
+  "lowest": {
+    "adjective": 1,
+    "noun (1)": 0,
+    "verb (1)": 0,
+    "intransitive verb": 0,
+    "noun (2)": 0,
+    "noun (3)": 0,
+    "verb (2)": 0
+  },
+  "low": {
+    "adjective": 1,
+    "noun (1)": 0,
+    "verb (1)": 0,
+    "intransitive verb": 0,
+    "noun (2)": 0,
+    "noun (3)": 0,
+    "verb (2)": 0
+  },
+  "lowness": {
+    "noun": 1
+  },
+  "point": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "pointed": {
+    "adjective": 1
+  },
+  "decades": {
+    "noun": 1
+  },
+  "decade": {
+    "noun": 1
+  },
+  "decadal": {
+    "adjective": 1
+  },
+  "statement": {
+    "noun": 1
+  },
+  "white": {
+    "adjective": 1,
+    "noun": 0,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "whitish": {
+    "adjective": 1
+  },
+  "whiteness": {
+    "noun": 1
+  },
+  "had": {
+    "verb": 1,
+    "transitive verb": 0,
+    "auxiliary verb": 0,
+    "noun": 0
+  },
+  "broad": {
+    "adjective": 1,
+    "adverb": 0,
+    "noun": 0
+  },
+  "broadly": {
+    "adverb": 1
+  },
+  "broadness": {
+    "noun": 1
+  },
+  "strategic": {
+    "adjective": 1
+  },
+  "strategical": {
+    "adjective": 1
+  },
+  "strategically": {
+    "adverb": 1
+  },
+  "discussion": {
+    "noun": 1
+  },
+  "including": {
+    "verb": 1,
+    "transitive verb": 0
+  },
+  "include": {
+    "verb": 1,
+    "transitive verb": 0
+  },
+  "includable": {
+    "adjective": 1
+  },
+  "areas": {
+    "plural noun": 1
+  },
+  "where": {
+    "adverb": 1,
+    "conjunction": 0,
+    "noun": 0
+  },
+  "interests": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "interest": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "values": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "adjective": 0
+  },
+  "value": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "adjective": 0
+  },
+  "valueless": {
+    "adjective": 1
+  },
+  "valuelessness": {
+    "noun": 1
+  },
+  "valuer": {
+    "noun": 1
+  },
+  "converge": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0
+  },
+  "diverge": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0
+  },
+  "conversation": {
+    "noun": 1
+  },
+  "conversational": {
+    "adjective": 1
+  },
+  "conversationally": {
+    "adverb": 1
+  },
+  "focused": {
+    "past tense verb": 1
+  },
+  "focus": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "focusless": {
+    "adjective": 1
+  },
+  "focusable": {
+    "adjective": 1
+  },
+  "focuser": {
+    "noun": 1
+  },
+  "economic": {
+    "adjective": 1
+  },
+  "issues": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "issue": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "issueless": {
+    "adjective": 1
+  },
+  "issuer": {
+    "noun": 1
+  },
+  "climate": {
+    "noun": 1
+  },
+  "change": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "changer": {
+    "noun": 1
+  },
+  "coivd": {
+    "noun": 1
+  },
+  "19": {
+    "noun": 1
+  },
+  "nineteen": {
+    "noun": 1
+  },
+  "nineteenth": {
+    "": 1
+  },
+  "senior": {
+    "noun": 1,
+    "adjective": 0
+  },
+  "official": {
+    "noun": 1,
+    "adjective": 0
+  },
+  "officially": {
+    "adverb": 1
+  },
+  "told": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun (1)": 0,
+    "noun (2)": 0
+  },
+  "tell": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun (1)": 0,
+    "noun (2)": 0
+  },
+  "reporters": {
+    "plural noun": 1
+  },
+  "underscored": {
+    "past tense verb": 1
+  },
+  "underscore": {
+    "verb": 1,
+    "transitive verb": 0,
+    "noun": 0
+  },
+  "united": {
+    "adjective": 1
+  },
+  "unitedly": {
+    "adverb": 1
+  },
+  "states": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "enduring": {
+    "adjective": 1
+  },
+  "enduringly": {
+    "adverb": 1
+  },
+  "enduringness": {
+    "noun": 1
+  },
+  "peace": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0
+  },
+  "stability": {
+    "noun": 1
+  },
+  "prosperity": {
+    "noun": 1
+  },
+  "indo-pacific": {
+    "adjective": 1
+  },
+  "leaders": {
+    "plural noun": 1
+  },
+  "discussed": {
+    "past tense verb": 1
+  },
+  "responsibility": {
+    "noun": 1
+  },
+  "nations": {
+    "noun": 1
+  },
+  "nation": {
+    "noun": 1
+  },
+  "added": {
+    "adjective": 1
+  },
+  "occasional": {
+    "adjective": 1
+  },
+  "occasionally": {
+    "adverb": 1
+  },
+  "high-level": {
+    "adjective": 1
+  },
+  "meetings": {
+    "noun": 1
+  },
+  "meeting": {
+    "noun": 1
+  },
+  "since": {
+    "adverb": 0,
+    "conjunction": 1,
+    "preposition": 0
+  },
+  "call": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "noun": 0
+  },
+  "february": {
+    "noun": 1
+  },
+  "yielded": {
+    "past tense verb": 1
+  },
+  "yield": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "scant": {
+    "adjective": 1,
+    "adverb": 0,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "scantly": {
+    "adverb": 1
+  },
+  "scantness": {
+    "noun": 1
+  },
+  "progress": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0
+  },
+  "ranging": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "range": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "from": {
+    "preposition": 1
+  },
+  "human": {
+    "adjective": 1,
+    "noun": 0
+  },
+  "humanness": {
+    "noun": 1
+  },
+  "humanlike": {
+    "adjective": 1
+  },
+  "rights": {
+    "adjective": 1,
+    "noun": 0,
+    "adverb": 0,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "right": {
+    "adjective": 1,
+    "noun": 0,
+    "adverb": 0,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "rightness": {
+    "noun": 1
+  },
+  "rightmost": {
+    "adjective": 1
+  },
+  "righter": {
+    "noun": 1
+  },
+  "rightly": {
+    "adverb": 1
+  },
+  "rightful": {
+    "adjective": 1
+  },
+  "rightfully": {
+    "adverb": 1
+  },
+  "transparency": {
+    "noun": 1
+  },
+  "over": {
+    "adverb": 1,
+    "preposition": 0,
+    "adjective": 0,
+    "verb": 0,
+    "transitive verb": 0,
+    "prefix": 0
+  },
+  "origins": {
+    "noun": 1
+  },
+  "origin": {
+    "noun": 1
+  },
+  "covid-19": {
+    "noun": 1
+  },
+  "sides": {
+    "noun (1)": 1,
+    "adjective": 0,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun (2)": 0
+  },
+  "lashed": {
+    "verb (1)": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "noun": 0,
+    "verb (2)": 0
+  },
+  "lash": {
+    "verb (1)": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "noun": 0,
+    "verb (2)": 0
+  },
+  "each": {
+    "adjective": 1,
+    "pronoun": 0,
+    "adverb": 0
+  },
+  "other": {
+    "adjective": 1,
+    "noun": 0,
+    "adverb": 0,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "othering": {
+    "noun": 1
+  },
+  "almost": {
+    "adverb": 1,
+    "adjective": 0
+  },
+  "constantly": {
+    "adverb": 1
+  },
+  "often": {
+    "adverb": 1
+  },
+  "vitriolic": {
+    "noun": 1
+  },
+  "vitriol": {
+    "noun": 1
+  },
+  "attacks": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0,
+    "adjective": 0
+  },
+  "attack": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0,
+    "adjective": 0
+  },
+  "attacker": {
+    "noun": 1
+  },
+  "sanctions": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "sanction": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "sanctionable": {
+    "adjective": 1
+  },
+  "officials": {
+    "plural noun": 1
+  },
+  "criticism": {
+    "noun": 1
+  },
+  "upholding": {
+    "verb": 1,
+    "transitive verb": 0
+  },
+  "uphold": {
+    "verb": 1,
+    "transitive verb": 0
+  },
+  "upholder": {
+    "noun": 1
+  },
+  "international": {
+    "adjective": 1,
+    "noun": 0
+  },
+  "internationality": {
+    "noun": 1
+  },
+  "internationally": {
+    "adverb": 1
+  },
+  "obligations": {
+    "noun": 1
+  },
+  "obligation": {
+    "noun": 1
+  },
+  "media": {
+    "noun (1)": 1,
+    "noun (2)": 0
+  },
+  "median": {
+    "": 1
+  },
+  "imposed": {
+    "past tense verb": 1
+  },
+  "impose": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "imposer": {
+    "noun": 1
+  },
+  "serious": {
+    "adjective": 1
+  },
+  "seriousness": {
+    "noun": 1
+  },
+  "difficulties": {
+    "noun": 1
+  },
+  "difficulty": {
+    "noun": 1
+  },
+  "relations": {
+    "noun": 1
+  },
+  "relation": {
+    "noun": 1
+  },
+  "relational": {
+    "adjective": 1
+  },
+  "but": {
+    "conjunction": 1,
+    "preposition": 0,
+    "adverb": 0,
+    "pronoun": 0,
+    "noun": 0
+  },
+  "agreed": {
+    "past tense verb": 1
+  },
+  "agree": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "maintain": {
+    "verb": 1,
+    "transitive verb": 0
+  },
+  "maintainability": {
+    "noun": 1
+  },
+  "maintainable": {
+    "adjective": 1
+  },
+  "maintainer": {
+    "noun": 1
+  },
+  "frequent": {
+    "verb": 1,
+    "transitive verb": 0,
+    "adjective": 0
+  },
+  "frequentation": {
+    "noun": 1
+  },
+  "frequenter": {
+    "noun": 1
+  },
+  "frequentness": {
+    "noun": 1
+  },
+  "frequently": {
+    "adverb": 1
+  },
+  "ask": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "asker": {
+    "noun": 1
+  },
+  "working": {
+    "noun": 1,
+    "adjective": 0
+  },
+  "level": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "adjective": 0
+  },
+  "levelly": {
+    "adverb": 1
+  },
+  "levelness": {
+    "noun": 1
+  },
+  "teams": {
+    "noun": 1,
+    "adjective": 0,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "team": {
+    "noun": 1,
+    "adjective": 0,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "step": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "combining form": 0
+  },
+  "steplike": {
+    "adjective": 1
+  },
+  "stepped": {
+    "adjective": 1
+  },
+  "up": {
+    "adverb": 1,
+    "adjective": 0,
+    "preposition": 0,
+    "noun": 0,
+    "verb": 0,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "abbreviation": 0
+  },
+  "communications": {
+    "noun": 1
+  },
+  "communication": {
+    "noun": 1
+  },
+  "communicational": {
+    "adjective": 1
+  },
+  "should": {
+    "auxiliary verb": 1
+  },
+  "show": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "showable": {
+    "adjective": 1
+  },
+  "courage": {
+    "noun": 1
+  },
+  "insight": {
+    "noun": 1
+  },
+  "political": {
+    "adjective": 1
+  },
+  "politically": {
+    "adverb": 1
+  },
+  "boldness": {
+    "adjective": 1,
+    "noun": 0
+  },
+  "bold": {
+    "adjective": 1,
+    "noun": 0
+  },
+  "boldly": {
+    "adverb": 1
+  },
+  "push": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0,
+    "abbreviation": 0
+  },
+  "sino": {
+    "combining form": 1
+  },
+  "back": {
+    "noun": 1,
+    "adverb": 0,
+    "adjective": 0,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "backed": {
+    "adjective": 1
+  },
+  "backless": {
+    "adjective": 1
+  },
+  "backer": {
+    "noun": 1
+  },
+  "track": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "trackless": {
+    "adjective": 1
+  },
+  "tracker": {
+    "noun": 1
+  },
+  "stable": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "adjective": 0
+  },
+  "stableness": {
+    "noun": 1
+  },
+  "stably": {
+    "adverb": 1
+  },
+  "development": {
+    "noun": 1
+  },
+  "developmental": {
+    "adjective": 1
+  },
+  "developmentally": {
+    "adverb": 1
+  },
+  "soon": {
+    "adverb": 1
+  },
+  "possible": {
+    "adjective": 1
+  },
+  "citing": {
+    "verb": 1,
+    "transitive verb": 0
+  },
+  "cite": {
+    "verb": 1,
+    "transitive verb": 0
+  },
+  "citable": {
+    "adjective": 1
+  },
+  "asian": {
+    "adjective": 1,
+    "noun": 0
+  },
+  "currencies": {
+    "noun": 1
+  },
+  "currency": {
+    "noun": 1
+  },
+  "share": {
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun (1)": 1,
+    "noun (2)": 0
+  },
+  "sharer": {
+    "noun": 1
+  },
+  "markets": {
+    "plural noun": 1
+  },
+  "strengthened": {
+    "past tense verb": 1
+  },
+  "strengthen": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "strengthener": {
+    "noun": 1
+  },
+  "investors": {
+    "verb (1)": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "verb (2)": 0
+  },
+  "invest": {
+    "verb (1)": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "verb (2)": 0
+  },
+  "investable": {
+    "adjective": 1
+  },
+  "investor": {
+    "noun": 1
+  },
+  "speculated": {
+    "past tense verb": 1
+  },
+  "speculate": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0
+  },
+  "speculator": {
+    "noun": 1
+  },
+  "could": {
+    "auxiliary verb": 1
+  },
+  "bring": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "bringer": {
+    "noun": 1
+  },
+  "thaw": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "noun": 0
+  },
+  "most": {
+    "adjective": 1,
+    "adverb (1)": 0,
+    "noun": 0,
+    "pronoun, singular or plural in construction": 0,
+    "adverb (2)": 0,
+    "adjective suffix": 0
+  },
+  "important": {
+    "adjective": 1
+  },
+  "importantly": {
+    "adverb": 1
+  },
+  "trading": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "adjective": 0
+  },
+  "trade": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "adjective": 0
+  },
+  "tradable": {
+    "adjective": 1
+  },
+  "trader": {
+    "noun": 1
+  },
+  "partners": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0,
+    "transitive verb": 0
+  },
+  "partner": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0,
+    "transitive verb": 0
+  },
+  "partnerless": {
+    "adjective": 1
+  },
+  "regional": {
+    "adjective": 1,
+    "noun": 0
+  },
+  "regionally": {
+    "adverb": 1
+  },
+  "if": {
+    "conjunction": 1,
+    "noun": 0
+  },
+  "core": {
+    "noun (1)": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "noun (2)": 0,
+    "abbreviation": 0
+  },
+  "corer": {
+    "noun": 1
+  },
+  "concerns": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "concern": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "respected": {
+    "past tense verb": 1
+  },
+  "respect": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "respecter": {
+    "noun": 1
+  },
+  "diplomatic": {
+    "adjective": 1
+  },
+  "diplomatically": {
+    "adverb": 1
+  },
+  "breakthroughs": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0
+  },
+  "breakthrough": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0
+  },
+  "still": {
+    "adjective": 1,
+    "verb (1)": 0,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "adverb": 0,
+    "noun (1)": 0,
+    "verb (2)": 0,
+    "noun (2)": 0
+  },
+  "stillness": {
+    "noun": 1
+  },
+  "made": {
+    "adjective": 1
+  },
+  "adding": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "abbreviation": 0
+  },
+  "add": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "abbreviation": 0
+  },
+  "addable": {
+    "adjective": 1
+  },
+  "positive": {
+    "adjective": 1,
+    "noun": 0
+  },
+  "positively": {
+    "adverb": 1
+  },
+  "positiveness": {
+    "noun": 1
+  },
+  "factors": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0,
+    "transitive verb": 0
+  },
+  "factor": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0,
+    "transitive verb": 0
+  },
+  "factorship": {
+    "noun": 1
+  },
+  "factorable": {
+    "adjective": 1
+  },
+  "factorial": {
+    "adjective": 1
+  },
+  "relationship": {
+    "noun": 1
+  },
+  "during": {
+    "preposition": 1
+  },
+  "visit": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "visitor": {
+    "noun": 1
+  },
+  "top": {
+    "noun (1)": 1,
+    "adjective": 0,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun (2)": 0,
+    "combining form": 0
+  },
+  "topped": {
+    "adjective": 1
+  },
+  "envoy": {
+    "noun": 1
+  },
+  "john": {
+    "noun (1)": 1,
+    "noun (2)": 0
+  },
+  "kerry": {
+    "noun": 1
+  },
+  "last": {
+    "verb (1)": 0,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "adjective": 1,
+    "adverb": 0,
+    "noun (1)": 0,
+    "noun (2)": 0,
+    "verb (2)": 0
+  },
+  "lastly": {
+    "adverb": 1
+  },
+  "week": {
+    "noun": 1
+  },
+  "diplomat": {
+    "noun": 1
+  },
+  "wang": {
+    "noun": 1
+  },
+  "yi": {
+    "interjection": 1,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "was": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "auxiliary verb": 0,
+    "symbol": 0,
+    "abbreviation (1)": 0,
+    "abbreviation (2)": 0,
+    "prefix": 0
+  },
+  "an": {
+    "indefinite article": 1,
+    "preposition": 0,
+    "conjunction": 0,
+    "abbreviation (1)": 0,
+    "prefix": 0,
+    "noun suffix (1)": 0,
+    "adjective suffix": 0,
+    "noun suffix (2)": 0,
+    "abbreviation (2)": 0
+  },
+  "oasis": {
+    "noun": 1
+  },
+  "it": {
+    "pronoun": 1,
+    "noun": 0,
+    "abbreviation (1)": 0,
+    "abbreviation (2)": 0
+  },
+  "separated": {
+    "past tense verb": 1
+  },
+  "separate": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "adjective": 0,
+    "noun": 0
+  },
+  "separateness": {
+    "noun": 1
+  },
+  "broader": {
+    "adjective": 1,
+    "adverb": 0,
+    "noun": 0
+  },
+  "disputes": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "noun": 0
+  },
+  "dispute": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "noun": 0
+  },
+  "disputable": {
+    "adjective": 1
+  },
+  "disputably": {
+    "adverb": 1
+  },
+  "disputer": {
+    "noun": 1
+  },
+  "administration": {
+    "noun": 1
+  },
+  "preoccupied": {
+    "adjective": 1
+  },
+  "chaotic": {
+    "adjective": 1
+  },
+  "chaotically": {
+    "adverb": 1
+  },
+  "withdrawal": {
+    "noun": 1
+  },
+  "afghanistan": {
+    "noun": 1
+  },
+  "has": {
+    "verb": 1,
+    "transitive verb": 0,
+    "auxiliary verb": 0,
+    "noun": 0
+  },
+  "signaled": {
+    "past tense verb": 1
+  },
+  "signal": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "adjective": 0
+  },
+  "signaler": {
+    "noun": 1
+  },
+  "ending": {
+    "noun": 1
+  },
+  "america": {
+    "noun": 1
+  },
+  "longest": {
+    "adjective": 1,
+    "adverb": 0,
+    "noun": 0,
+    "verb (1)": 0,
+    "intransitive verb": 0,
+    "verb (2)": 0,
+    "abbreviation": 0
+  },
+  "long": {
+    "adjective": 1,
+    "adverb": 0,
+    "noun": 0,
+    "verb (1)": 0,
+    "intransitive verb": 0,
+    "verb (2)": 0,
+    "abbreviation": 0
+  },
+  "longness": {
+    "noun": 1
+  },
+  "longer": {
+    "noun": 1
+  },
+  "war": {
+    "noun": 1,
+    "verb (1)": 0,
+    "intransitive verb": 0,
+    "verb (2)": 0,
+    "transitive verb": 0
+  },
+  "warless": {
+    "adjective": 1
+  },
+  "give": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "giver": {
+    "noun": 1
+  },
+  "military": {
+    "adjective": 1,
+    "noun": 0
+  },
+  "space": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "tackle": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "tackler": {
+    "noun": 1
+  },
+  "more": {
+    "adjective": 1,
+    "adverb": 0,
+    "noun": 0,
+    "pronoun, singular or plural in construction": 0
+  },
+  "pressing": {
+    "adjective": 1
+  },
+  "pressingly": {
+    "adverb": 1
+  },
+  "threats": {
+    "noun": 1,
+    "verb": 0
+  },
+  "threat": {
+    "noun": 1,
+    "verb": 0
+  },
+  "rapid": {
+    "adjective": 1,
+    "noun": 0
+  },
+  "rapidly": {
+    "adverb": 1
+  },
+  "rapidness": {
+    "noun": 1
+  },
+  "rise": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "riser": {
+    "noun": 1
+  },
+  "beijing": {
+    "noun": 1
+  },
+  "been": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "auxiliary verb": 0
+  },
+  "quick": {
+    "adjective": 1,
+    "adverb": 0,
+    "noun": 0
+  },
+  "quickly": {
+    "adverb": 1
+  },
+  "quickness": {
+    "noun": 1
+  },
+  "seize": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "seizer": {
+    "noun": 1
+  },
+  "seizable": {
+    "adjective": 1
+  },
+  "failure": {
+    "noun": 1
+  },
+  "try": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "noun": 0
+  },
+  "portray": {
+    "verb": 1,
+    "transitive verb": 0
+  },
+  "portrayer": {
+    "noun": 1
+  },
+  "fickle": {
+    "adjective": 1
+  },
+  "fickleness": {
+    "noun": 1
+  },
+  "fickly": {
+    "adverb": 1
+  },
+  "foreign": {
+    "adjective": 1
+  },
+  "foreignness": {
+    "noun": 1
+  },
+  "minister": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0
+  },
+  "washington": {
+    "noun": 1
+  },
+  "expect": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "expectable": {
+    "adjective": 1
+  },
+  "expectably": {
+    "adverb": 1
+  },
+  "expectedly": {
+    "adverb": 1
+  },
+  "expectedness": {
+    "noun": 1
+  },
+  "cooperation": {
+    "noun": 1
+  },
+  "cooperationist": {
+    "noun": 1
+  },
+  "or": {
+    "conjunction (1)": 1,
+    "preposition": 0,
+    "conjunction (2)": 0,
+    "noun (1)": 0,
+    "noun (2)": 0,
+    "abbreviation": 0,
+    "noun suffix (1)": 0,
+    "noun suffix (2)": 0
+  },
+  "also": {
+    "adverb": 1
+  },
+  "trying": {
+    "active verb": 1
+  },
+  "contain": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "containable": {
+    "adjective": 1
+  },
+  "suppress": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "suppressibility": {
+    "noun": 1
+  },
+  "suppressible": {
+    "adjective": 1
+  },
+  "suppressive": {
+    "adjective": 1
+  },
+  "suppressiveness": {
+    "noun": 1
+  },
+  "suppression": {
+    "noun": 1
+  },
+  "before": {
+    "preposition": 1,
+    "conjunction": 0
+  },
+  "disappointed": {
+    "adjective": 1
+  },
+  "disappointedly": {
+    "adverb": 1
+  },
+  "appeared": {
+    "past tense verb": 1
+  },
+  "appear": {
+    "verb": 1,
+    "intransitive verb": 0
+  },
+  "only": {
+    "adjective": 1,
+    "adverb": 0,
+    "conjunction": 0
+  },
+  "willing": {
+    "active verb": 1
+  },
+  "read": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "adjective": 0,
+    "noun": 0
+  },
+  "talking": {
+    "active verb": 1
+  },
+  "points": {
+    "plural noun": 1
+  },
+  "recent": {
+    "adjective": 1
+  },
+  "recentness": {
+    "noun": 1
+  },
+  "recently": {
+    "adverb": 1
+  },
+  "saw": {
+    "noun (1)": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "sawlike": {
+    "adjective": 1
+  },
+  "sawer": {
+    "noun": 1
+  },
+  "test": {
+    "noun (1)": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "adjective": 0,
+    "noun (2)": 0,
+    "abbreviation": 0
+  },
+  "testability": {
+    "noun": 1
+  },
+  "testable": {
+    "adjective": 1
+  },
+  "direct": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "adjective": 0,
+    "adverb": 0
+  },
+  "directness": {
+    "noun": 1
+  },
+  "directly": {
+    "adverb": 1
+  },
+  "engagement": {
+    "noun": 1
+  },
+  "end": {
+    "noun": 1,
+    "verb (1)": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "adjective": 0,
+    "verb (2)": 0,
+    "combining form": 0
+  },
+  "ended": {
+    "adjective": 1
+  },
+  "what": {
+    "pronoun": 1,
+    "adverb": 0,
+    "adjective": 0
+  },
+  "become": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0
+  },
+  "this": {
+    "pronoun": 1,
+    "adjective": 0,
+    "adverb": 0
+  },
+  "is": {
+    "abbreviation (1)": 1,
+    "abbreviation (2)": 0,
+    "combining form": 0
+  },
+  "about": {
+    "adverb": 1,
+    "preposition": 0,
+    "adjective": 0
+  },
+  "seeing": {
+    "conjunction": 1,
+    "noun": 0
+  },
+  "there": {
+    "adverb": 1,
+    "pronoun": 0,
+    "noun": 0,
+    "adjective": 0
+  },
+  "ability": {
+    "noun": 1,
+    "noun suffix": 0
+  },
+  "engage": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "adjective": 0
+  },
+  "substantively": {
+    "adjective": 1,
+    "noun": 0
+  },
+  "substantive": {
+    "adjective": 1,
+    "noun": 0
+  },
+  "substantiveness": {
+    "noun": 1
+  },
+  "substantivize": {
+    "": 1
+  },
+  "than": {
+    "conjunction": 1,
+    "preposition": 0
+  },
+  "we": {
+    "pronoun, plural in construction": 1,
+    "abbreviation": 0
+  },
+  "able": {
+    "adjective": 1,
+    "adjective suffix": 0
+  },
+  "after": {
+    "adverb": 1,
+    "preposition": 0,
+    "conjunction": 0,
+    "adjective": 0,
+    "auxiliary verb": 0,
+    "noun": 0,
+    "prefix": 0
+  },
+  "describing": {
+    "verb": 1,
+    "transitive verb": 0
+  },
+  "describe": {
+    "verb": 1,
+    "transitive verb": 0
+  },
+  "describable": {
+    "adjective": 1
+  },
+  "describer": {
+    "noun": 1
+  },
+  "tone": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "candid": {
+    "adjective": 1
+  },
+  "candidly": {
+    "adverb": 1
+  },
+  "candidness": {
+    "noun": 1
+  },
+  "respectful": {
+    "adjective": 1
+  },
+  "respectfully": {
+    "adverb": 1
+  },
+  "respectfulness": {
+    "noun": 1
+  },
+  "acknowledged": {
+    "adjective": 1
+  },
+  "acknowledgedly": {
+    "adverb": 1
+  },
+  "behavior": {
+    "noun": 1
+  },
+  "behavioral": {
+    "adjective": 1
+  },
+  "behaviorally": {
+    "adverb": 1
+  },
+  "may": {
+    "auxiliary verb": 1,
+    "noun (1)": 0,
+    "noun (2)": 0
+  },
+  "limited": {
+    "adjective": 1
+  },
+  "limitedly": {
+    "adverb": 1
+  },
+  "limitedness": {
+    "noun": 1
+  },
+  "must": {
+    "verb": 1,
+    "auxiliary verb": 0,
+    "intransitive verb": 0,
+    "noun (1)": 0,
+    "noun (2)": 0,
+    "noun (3)": 0
+  },
+  "largely": {
+    "adverb": 1
+  },
+  "shoring": {
+    "noun": 1
+  },
+  "competitiveness": {
+    "adjective": 1
+  },
+  "competitive": {
+    "adjective": 1
+  },
+  "competitively": {
+    "adverb": 1
+  },
+  "rallying": {
+    "noun": 1
+  },
+  "allies": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "ally": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "successive": {
+    "adjective": 1
+  },
+  "successively": {
+    "adverb": 1
+  },
+  "successiveness": {
+    "noun": 1
+  },
+  "administrations": {
+    "plural noun": 1
+  },
+  "complained": {
+    "past tense verb": 1
+  },
+  "complain": {
+    "verb": 1,
+    "intransitive verb": 0
+  },
+  "complainer": {
+    "noun": 1
+  },
+  "complainingly": {
+    "adverb": 1
+  },
+  "sought": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "use": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "user": {
+    "noun": 1
+  },
+  "endless": {
+    "adjective": 1
+  },
+  "endlessly": {
+    "adverb": 1
+  },
+  "endlessness": {
+    "noun": 1
+  },
+  "dialogue": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "delaying": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "delay": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "delayer": {
+    "noun": 1
+  },
+  "tactic": {
+    "noun": 1,
+    "adjective": 0,
+    "adjective combining form": 0
+  },
+  "frustration": {
+    "noun": 1
+  },
+  "which": {
+    "adjective": 1,
+    "pronoun": 0,
+    "conjunction": 0
+  },
+  "ultimately": {
+    "adverb": 1
+  },
+  "led": {
+    "noun": 1
+  },
+  "annual": {
+    "adjective": 1,
+    "noun": 0
+  },
+  "annually": {
+    "adverb": 1
+  },
+  "mechanism": {
+    "noun": 1
+  },
+  "mechanistic": {
+    "adjective": 1
+  },
+  "even": {
+    "adjective": 1,
+    "adverb": 0,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "evenly": {
+    "adverb": 1
+  },
+  "evenness": {
+    "noun": 1
+  },
+  "evener": {
+    "noun": 1
+  },
+  "so": {
+    "adverb": 1,
+    "conjunction": 0,
+    "adjective": 0,
+    "pronoun": 0,
+    "noun": 0,
+    "abbreviation (1)": 0,
+    "abbreviation (2)": 0
+  },
+  "planned": {
+    "past tense verb": 1
+  },
+  "raise": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "raiser": {
+    "noun": 1
+  },
+  "prospect": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0,
+    "transitive verb": 0
+  },
+  "prospector": {
+    "noun": 1
+  },
+  "retaliatory": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0
+  },
+  "retaliate": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0
+  },
+  "retaliation": {
+    "noun": 1
+  },
+  "retaliative": {
+    "adjective": 1
+  },
+  "action": {
+    "noun": 1
+  },
+  "costs": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0,
+    "transitive verb": 0
+  },
+  "cost": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0,
+    "transitive verb": 0
+  },
+  "costless": {
+    "adjective": 1
+  },
+  "costlessly": {
+    "adverb": 1
+  },
+  "refused": {
+    "past tense verb": 1
+  },
+  "refuse": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0,
+    "adjective": 0
+  },
+  "refuser": {
+    "noun": 1
+  },
+  "co-operate": {
+    "verb": 1,
+    "intransitive verb": 0
+  },
+  "cooperate": {
+    "verb": 1,
+    "intransitive verb": 0
+  },
+  "cooperator": {
+    "noun": 1
+  },
+  "investigations": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "investigate": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "investigation": {
+    "noun": 1
+  },
+  "investigative": {
+    "adjective": 1
+  },
+  "investigatory": {
+    "adjective": 1
+  },
+  "investigator": {
+    "noun": 1
+  },
+  "denies": {
+    "verb": 1,
+    "transitive verb": 0
+  },
+  "deny": {
+    "verb": 1,
+    "transitive verb": 0
+  },
+  "denyingly": {
+    "adverb": 1
+  },
+  "accusation": {
+    "noun": 1
+  },
+  "co-operated": {
+    "past tense verb": 1
+  },
+  "pandemic": {
+    "adjective": 1,
+    "noun": 0
+  },
+  "source": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "adjective": 0
+  },
+  "sourceless": {
+    "adjective": 1
+  },
+  "would": {
+    "verb": 1
+  },
+  "require": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "training": {
+    "noun": 1
+  },
+  "period": {
+    "noun": 1,
+    "adjective": 0
+  },
+  "convince": {
+    "verb": 1,
+    "transitive verb": 0
+  },
+  "convincer": {
+    "noun": 1
+  },
+  "who": {
+    "pronoun": 1,
+    "abbreviation": 0
+  },
+  "preparing": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "prepare": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "preparer": {
+    "noun": 1
+  },
+  "communist": {
+    "noun": 1
+  },
+  "communistic": {
+    "adverb": 1
+  },
+  "communistically": {
+    "adverb": 1
+  },
+  "party": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0
+  },
+  "partyer": {
+    "noun": 1
+  },
+  "congress": {
+    "noun": 1
+  },
+  "congressional": {
+    "adjective": 1
+  },
+  "congressionally": {
+    "adverb": 1
+  },
+  "next": {
+    "adjective": 1,
+    "preposition": 0,
+    "adverb": 0,
+    "noun": 0
+  },
+  "year": {
+    "noun": 1
+  },
+  "stance": {
+    "noun": 1
+  },
+  "pay": {
+    "verb (1)": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0,
+    "adjective": 0,
+    "verb (2)": 0
+  },
+  "payer": {
+    "noun": 1
+  },
+  "dividends": {
+    "noun": 1
+  },
+  "dividend": {
+    "noun": 1
+  },
+  "dividendless": {
+    "adjective": 1
+  },
+  "think": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0,
+    "adjective": 0
+  },
+  "thinker": {
+    "noun": 1
+  },
+  "essentially": {
+    "adverb": 1
+  },
+  "actions": {
+    "plural noun": 1
+  },
+  "quieter": {
+    "noun": 1
+  },
+  "words": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "word": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "responses": {
+    "noun": 1
+  },
+  "response": {
+    "noun": 1
+  },
+  "our": {
+    "adjective": 1
+  },
+  "actually": {
+    "adverb": 1
+  },
+  "symbolic": {
+    "adjective": 1
+  },
+  "symbolically": {
+    "adverb": 1
+  },
+  "frankly": {
+    "adverb": 1
+  },
+  "hard": {
+    "adjective": 1,
+    "adverb": 0
+  },
+  "hardness": {
+    "noun": 1
+  },
+  "line": {
+    "noun": 1,
+    "verb (1)": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "verb (2)": 0
+  },
+  "liny": {
+    "adjective": 1
+  },
+  "rhetoric": {
+    "noun": 1
+  },
+  "really": {
+    "adverb": 1
+  },
+  "said": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0,
+    "adverb": 0,
+    "adjective": 0
+  },
+  "say": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0,
+    "adverb": 0
+  },
+  "sayer": {
+    "noun": 1
+  },
+  "then": {
+    "adverb": 1,
+    "noun": 0,
+    "adjective": 0
+  },
+  "something": {
+    "pronoun": 1,
+    "adverb": 0
+  },
+  "yet": {
+    "adverb": 1,
+    "conjunction": 0
+  },
+  "throughout": {
+    "preposition": 1,
+    "adverb": 0
+  },
+  "gathering": {
+    "noun": 1
+  },
+  "lawmakers": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "lawmaker": {
+    "noun": 1
+  },
+  "lawmaking": {
+    "noun": 1
+  },
+  "advisers": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "adviser": {
+    "noun": 1
+  },
+  "taking": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "take": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "taker": {
+    "noun": 1
+  },
+  "place": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "placeable": {
+    "adjective": 1
+  },
+  "known": {
+    "adjective": 1
+  },
+  "sessions": {
+    "noun": 1,
+    "adjective": 0
+  },
+  "session": {
+    "noun": 1,
+    "adjective": 0
+  },
+  "sessional": {
+    "adjective": 1
+  },
+  "Sessions": {
+    "plural noun": 1
+  },
+  "continued": {
+    "adjective": 1
+  },
+  "impression": {
+    "noun": 1
+  },
+  "russia": {
+    "noun": 1
+  },
+  "ukraine": {
+    "noun": 1
+  },
+  "somehow": {
+    "adverb": 1
+  },
+  "fault": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "nato": {
+    "abbreviation": 1
+  },
+  "west": {
+    "adverb": 1,
+    "adjective": 0,
+    "noun": 0
+  },
+  "they": {
+    "pronoun": 1
+  },
+  "emphasized": {
+    "past tense verb": 1
+  },
+  "emphasize": {
+    "verb": 1,
+    "transitive verb": 0
+  },
+  "solidarity": {
+    "noun": 1
+  },
+  "claimed": {
+    "past tense verb": 1
+  },
+  "claim": {
+    "verb": 1,
+    "transitive verb": 0,
+    "noun": 0,
+    "": 0
+  },
+  "claimable": {
+    "adjective": 1
+  },
+  "best": {
+    "adjective": 1,
+    "adverb": 0,
+    "noun": 0,
+    "verb": 0,
+    "transitive verb": 0,
+    "auxiliary verb": 0
+  },
+  "country": {
+    "noun": 1,
+    "adjective": 0
+  },
+  "countryish": {
+    "adjective": 1
+  },
+  "broker": {
+    "noun": 1,
+    "verb": 0
+  },
+  "called": {
+    "past tense verb": 1
+  },
+  "his": {
+    "adjective": 1,
+    "pronoun, singular or plural in construction": 0
+  },
+  "moscow": {
+    "noun": 1
+  },
+  "constitute": {
+    "verb": 1,
+    "transitive verb": 0
+  },
+  "one": {
+    "adjective": 1,
+    "noun": 0,
+    "pronoun": 0,
+    "noun suffix": 0
+  },
+  "crucial": {
+    "adjective": 1
+  },
+  "bilateral": {
+    "adjective": 1
+  },
+  "bilateralism": {
+    "noun": 1
+  },
+  "bilaterally": {
+    "adverb": 1
+  },
+  "bilaterality": {
+    "adverb": 1
+  },
+  "relationships": {
+    "plural noun": 1
+  },
+  "news": {
+    "noun": 1,
+    "adjective": 0,
+    "adverb": 0,
+    "plural noun": 0
+  },
+  "new": {
+    "noun": 1,
+    "adjective": 0,
+    "adverb": 0
+  },
+  "newish": {
+    "adjective": 1
+  },
+  "newness": {
+    "noun": 1
+  },
+  "conference": {
+    "noun": 1
+  },
+  "conferential": {
+    "adjective": 1
+  },
+  "sidelines": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "plural noun": 0
+  },
+  "sideline": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "ceremonial": {
+    "adjective": 1,
+    "noun": 0
+  },
+  "ceremonialism": {
+    "noun": 1
+  },
+  "ceremonialist": {
+    "noun": 1
+  },
+  "ceremonially": {
+    "adverb": 1
+  },
+  "parliament": {
+    "noun": 1
+  },
+  "no": {
+    "adverb": 1,
+    "adjective": 0,
+    "noun": 0,
+    "abbreviation": 0,
+    "symbol": 0
+  },
+  "matter": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0
+  },
+  "how": {
+    "adverb": 1,
+    "conjunction": 0,
+    "noun": 0
+  },
+  "perilous": {
+    "adjective": 1
+  },
+  "perilously": {
+    "adverb": 1
+  },
+  "perilousness": {
+    "noun": 1
+  },
+  "landscape": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "adjective": 0
+  },
+  "landscaper": {
+    "noun": 1
+  },
+  "promote": {
+    "verb": 1,
+    "transitive verb": 0
+  },
+  "promotability": {
+    "noun": 1
+  },
+  "promotable": {
+    "adjective": 1
+  },
+  "comprehensive": {
+    "adjective": 1
+  },
+  "comprehensively": {
+    "adverb": 1
+  },
+  "comprehensiveness": {
+    "noun": 1
+  },
+  "partnership": {
+    "noun": 1
+  },
+  "era": {
+    "noun": 1,
+    "abbreviation": 0
+  },
+  "friendship": {
+    "noun": 1
+  },
+  "peoples": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "plural noun": 0
+  },
+  "people": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "peopleless": {
+    "adjective": 1
+  },
+  "countries": {
+    "plural noun": 1
+  },
+  "rock-solid": {
+    "adjective": 1
+  },
+  "professor": {
+    "noun": 1
+  },
+  "professorship": {
+    "noun": 1
+  },
+  "steve": {
+    "abbreviation": 1
+  },
+  "stev": {
+    "abbreviation": 1
+  },
+  "tsang": {
+    "noun": 1
+  },
+  "director": {
+    "noun": 1
+  },
+  "directorship": {
+    "noun": 1
+  },
+  "soas": {
+    "conjunction": 1
+  },
+  "university": {
+    "noun": 1
+  },
+  "says": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0,
+    "adverb": 0,
+    "plural noun": 0
+  },
+  "consistently": {
+    "adjective": 1,
+    "adverb": 0
+  },
+  "consistent": {
+    "adjective": 1
+  },
+  "refusing": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0,
+    "adjective": 0
+  },
+  "acknowledge": {
+    "verb": 1,
+    "transitive verb": 0
+  },
+  "fact": {
+    "noun": 1
+  },
+  "invasion": {
+    "noun": 1
+  },
+  "given": {
+    "adjective": 1,
+    "noun": 0,
+    "preposition": 0
+  },
+  "either": {
+    "adjective": 1,
+    "pronoun": 0,
+    "conjunction": 0,
+    "adverb": 0
+  },
+  "persuade": {
+    "verb": 1,
+    "transitive verb": 0
+  },
+  "persuader": {
+    "noun": 1
+  },
+  "stop": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0,
+    "adjective": 0
+  },
+  "stoppable": {
+    "adjective": 1
+  },
+  "deepening": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "deepen": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "humanitarian": {
+    "noun": 1,
+    "adjective": 0
+  },
+  "humanitarianism": {
+    "noun": 1
+  },
+  "crisis": {
+    "noun": 1
+  },
+  "stay": {
+    "noun (1)": 1,
+    "verb (1)": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "verb (2)": 0,
+    "noun (2)": 0,
+    "noun (3)": 0,
+    "verb (3)": 0
+  },
+  "behind": {
+    "preposition": 1,
+    "noun": 0
+  },
+  "causing": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "cause": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "causeless": {
+    "adjective": 1
+  },
+  "causer": {
+    "noun": 1
+  },
+  "us": {
+    "pronoun": 1,
+    "abbreviation": 0
+  },
+  "general": {
+    "adjective": 1,
+    "noun": 0
+  },
+  "europe": {
+    "noun": 1
+  },
+  "tuesday": {
+    "noun": 1
+  },
+  "tuesdays": {
+    "adverb": 1
+  },
+  "gap": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "gappy": {
+    "adjective": 1
+  },
+  "intelligence": {
+    "noun": 1
+  },
+  "intelligent": {
+    "adjective": 1
+  },
+  "intelligently": {
+    "adverb": 1
+  },
+  "caused": {
+    "past tense verb": 1
+  },
+  "overestimate": {
+    "verb": 1,
+    "transitive verb": 0,
+    "noun": 0
+  },
+  "capability": {
+    "noun": 1
+  },
+  "underestimate": {
+    "verb": 1,
+    "transitive verb": 0,
+    "noun": 0
+  },
+  "underestimation": {
+    "noun": 1
+  },
+  "defensive": {
+    "adjective": 1,
+    "noun": 0
+  },
+  "defensively": {
+    "adverb": 1
+  },
+  "defensiveness": {
+    "noun": 1
+  },
+  "abilities": {
+    "plural noun": 1
+  },
+  "attacked": {
+    "past tense verb": 1
+  },
+  "launched": {
+    "past tense verb": 1
+  },
+  "launch": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun (1)": 0,
+    "noun (2)": 0
+  },
+  "its": {
+    "plural noun": 1
+  },
+  "assessed": {
+    "past tense verb": 1
+  },
+  "assess": {
+    "verb": 1,
+    "transitive verb": 0
+  },
+  "assessor": {
+    "noun": 1
+  },
+  "assessable": {
+    "adjective": 1
+  },
+  "country-wide": {
+    "adjective": 1
+  },
+  "countrywide": {
+    "adjective": 1
+  },
+  "assault": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "assaulter": {
+    "noun": 1
+  },
+  "assaultive": {
+    "adjective": 1
+  },
+  "assaultively": {
+    "adverb": 1
+  },
+  "assaultiveness": {
+    "noun": 1
+  },
+  "lead": {
+    "verb (1)": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun (1)": 0,
+    "adjective": 0,
+    "noun (2)": 0,
+    "verb (2)": 0
+  },
+  "kyiv": {
+    "noun": 1
+  },
+  "falling": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "noun": 0,
+    "adjective": 0
+  },
+  "fall": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "noun": 0,
+    "adjective": 0
+  },
+  "russian": {
+    "noun": 1,
+    "adjective": 0
+  },
+  "russianness": {
+    "noun": 1
+  },
+  "hands": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "adverb": 0,
+    "plural noun": 0
+  },
+  "hand": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "adverb": 0
+  },
+  "within": {
+    "adverb": 1,
+    "preposition": 0,
+    "noun": 0,
+    "adjective": 0
+  },
+  "days": {
+    "adverb": 1
+  },
+  "bogged": {
+    "past tense verb": 1
+  },
+  "bog": {
+    "noun (1)": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun (2)": 0
+  },
+  "down": {
+    "noun": 1,
+    "adverb": 0,
+    "preposition": 0,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "adjective": 0,
+    "noun (1)": 0,
+    "noun (2)": 0,
+    "noun (3)": 0,
+    "noun (4)": 0
+  },
+  "around": {
+    "adverb": 1,
+    "preposition": 0,
+    "adjective": 0
+  },
+  "capital": {
+    "adjective": 1,
+    "noun (1)": 0,
+    "noun (2)": 0
+  },
+  "entered": {
+    "past tense verb": 1
+  },
+  "enter": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "combining form": 0
+  },
+  "enterable": {
+    "adjective": 1
+  },
+  "second": {
+    "adjective": 1,
+    "noun (1)": 0,
+    "adverb": 0,
+    "noun (2)": 0,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "seconder": {
+    "noun": 1
+  },
+  "beleaguered": {
+    "adjective": 1
+  },
+  "sustainability": {
+    "adjective": 1,
+    "noun": 0
+  },
+  "sustainable": {
+    "adjective": 1
+  },
+  "sustainably": {
+    "adverb": 1
+  },
+  "logistics": {
+    "noun, plural in form but singular or plural in construction": 1
+  },
+  "problems": {
+    "noun": 1,
+    "adjective": 0,
+    "plural noun": 0
+  },
+  "problem": {
+    "noun": 1,
+    "adjective": 0
+  },
+  "unexpected": {
+    "adjective": 1
+  },
+  "unexpectedly": {
+    "adverb": 1
+  },
+  "unexpectedness": {
+    "noun": 1
+  },
+  "stiff": {
+    "adjective": 1,
+    "adverb": 0,
+    "noun": 0,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "stiffish": {
+    "adjective": 1
+  },
+  "stiffly": {
+    "adverb": 1
+  },
+  "stiffness": {
+    "noun": 1
+  },
+  "resistance": {
+    "noun": 1,
+    "adjective": 0
+  },
+  "ukrainian": {
+    "noun": 1,
+    "adjective": 0
+  },
+  "fighters": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "fighter": {
+    "noun": 1
+  },
+  "testifying": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0
+  },
+  "testify": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0
+  },
+  "testifier": {
+    "noun": 1
+  },
+  "senate": {
+    "noun": 1
+  },
+  "armed": {
+    "adjective (1)": 1,
+    "adjective (2)": 0
+  },
+  "services": {
+    "noun (1)": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "adjective": 0,
+    "noun (2)": 0
+  },
+  "service": {
+    "noun (1)": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "adjective": 0,
+    "noun (2)": 0
+  },
+  "servicer": {
+    "noun": 1
+  },
+  "committee": {
+    "noun": 1
+  },
+  "hearing": {
+    "noun": 1
+  },
+  "european": {
+    "adjective": 1,
+    "noun": 0
+  },
+  "europeanness": {
+    "noun": 1
+  },
+  "command": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0,
+    "adjective": 0
+  },
+  "commandable": {
+    "adjective": 1
+  },
+  "chief": {
+    "adjective": 1,
+    "adverb": 0,
+    "noun": 0
+  },
+  "chiefship": {
+    "noun": 1
+  },
+  "gen": {
+    "noun (1)": 1,
+    "noun (2)": 0,
+    "abbreviation (1)": 0,
+    "abbreviation (2)": 0,
+    "combining form": 0,
+    "noun combining form": 0
+  },
+  "tod": {
+    "noun (1)": 1,
+    "noun (2)": 0
+  },
+  "smith": {
+    "noun": 1
+  },
+  "asked": {
+    "past tense verb": 1
+  },
+  "senator": {
+    "noun": 1
+  },
+  "senatorship": {
+    "noun": 1
+  },
+  "senatorial": {
+    "adjective": 1
+  },
+  "roger": {
+    "interjection": 1,
+    "": 0
+  },
+  "wicker": {
+    "noun": 1,
+    "adjective": 0
+  },
+  "mississippi": {
+    "noun": 1
+  },
+  "republican": {
+    "noun": 1,
+    "adjective": 0
+  },
+  "strength": {
+    "noun": 1
+  },
+  "defenses": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "plural noun": 0
+  },
+  "defense": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "defenseless": {
+    "adjective": 1
+  },
+  "defenselessly": {
+    "adverb": 1
+  },
+  "defenselessness": {
+    "noun": 1
+  },
+  "responded": {
+    "past tense verb": 1
+  },
+  "respond": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0,
+    "transitive verb": 0
+  },
+  "responder": {
+    "noun": 1
+  },
+  "always": {
+    "adverb": 1
+  },
+  "done": {
+    "adjective": 1
+  },
+  "past": {
+    "noun": 1,
+    "adjective": 0,
+    "preposition": 0,
+    "adverb": 0
+  },
+  "pastless": {
+    "adjective": 1
+  },
+  "accomplish": {
+    "verb": 1,
+    "transitive verb": 0
+  },
+  "accomplishable": {
+    "adjective": 1
+  },
+  "accomplisher": {
+    "noun": 1
+  },
+  "after-action": {
+    "noun": 1
+  },
+  "review": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "reviewable": {
+    "adjective": 1
+  },
+  "reviewer": {
+    "noun": 1
+  },
+  "reviewability": {
+    "noun": 1
+  },
+  "all": {
+    "adjective": 1,
+    "adverb": 0,
+    "pronoun, singular or plural in construction": 0,
+    "noun": 0
+  },
+  "domains": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "domain": {
+    "noun": 1
+  },
+  "departments": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "department": {
+    "noun": 1
+  },
+  "departmental": {
+    "adjective": 1
+  },
+  "departmentally": {
+    "adverb": 1
+  },
+  "find": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "findable": {
+    "adjective": 1
+  },
+  "finder": {
+    "noun": 1
+  },
+  "weak": {
+    "adjective": 1
+  },
+  "weakly": {
+    "adverb": 1
+  },
+  "make": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "maker": {
+    "noun": 1
+  },
+  "sure": {
+    "adjective": 1,
+    "adverb": 0
+  },
+  "sureness": {
+    "noun": 1
+  },
+  "ways": {
+    "noun": 1,
+    "adjective": 0,
+    "adverb": 0,
+    "plural noun": 0
+  },
+  "way": {
+    "noun": 1,
+    "adjective": 0,
+    "adverb": 0
+  },
+  "improve": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "improvability": {
+    "noun": 1
+  },
+  "improvable": {
+    "adjective": 1
+  },
+  "improver": {
+    "noun": 1
+  },
+  "those": {
+    "pronoun (1)": 1,
+    "conjunction": 0,
+    "adjective": 0,
+    "pronoun (2)": 0,
+    "adverb": 0
+  },
+  "wolters": {
+    "noun": 1
+  },
+  "evidence": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "emerged": {
+    "past tense verb": 1
+  },
+  "emerge": {
+    "verb": 1,
+    "intransitive verb": 0
+  },
+  "support": {
+    "verb": 1,
+    "transitive verb": 0,
+    "noun": 0
+  },
+  "supportability": {
+    "noun": 1
+  },
+  "supportable": {
+    "adjective": 1
+  },
+  "supportive": {
+    "adjective": 1
+  },
+  "supportiveness": {
+    "noun": 1
+  },
+  "supporter": {
+    "noun": 1
+  },
+  "trump": {
+    "noun (1)": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun (2)": 0
+  },
+  "claims": {
+    "plural noun": 1
+  },
+  "bidens": {
+    "plural noun": 1
+  },
+  "engaged": {
+    "adjective": 1
+  },
+  "corruption": {
+    "noun": 1
+  },
+  "influenced": {
+    "past tense verb": 1
+  },
+  "influence": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "influenceable": {
+    "adjective": 1
+  },
+  "influencer": {
+    "noun": 1
+  },
+  "personal": {
+    "adjective": 1,
+    "noun": 0
+  },
+  "personally": {
+    "adverb": 1
+  },
+  "gain": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "gainer": {
+    "noun": 1
+  },
+  "another": {
+    "adjective": 1,
+    "pronoun": 0
+  },
+  "sentence": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "too": {
+    "adverb": 1
+  },
+  "true": {
+    "adjective": 1,
+    "adverb": 0,
+    "noun": 0,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "trueness": {
+    "noun": 1
+  },
+  "hunter": {
+    "noun": 1
+  },
+  "paid": {
+    "verb (1)": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0,
+    "adjective": 0,
+    "verb (2)": 0
+  },
+  "handsomely": {
+    "adjective": 1,
+    "adverb": 0
+  },
+  "handsome": {
+    "adjective": 1
+  },
+  "handsomeness": {
+    "noun": 1
+  },
+  "consulting": {
+    "adjective": 1
+  },
+  "work": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "noun": 0,
+    "adjective": 0
+  },
+  "he": {
+    "pronoun": 1,
+    "noun (1)": 0,
+    "noun (2)": 0,
+    "symbol": 0,
+    "abbreviation": 0
+  },
+  "did": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "auxiliary verb": 0,
+    "noun (1)": 0,
+    "noun (2)": 0,
+    "abbreviation (1)": 0,
+    "abbreviation (2)": 0
+  },
+  "do": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "auxiliary verb": 0,
+    "noun (1)": 0,
+    "noun (2)": 0,
+    "abbreviation (1)": 0,
+    "abbreviation (2)": 0
+  },
+  "doable": {
+    "adjective": 1
+  },
+  "while": {
+    "noun": 1,
+    "conjunction": 0,
+    "preposition": 0,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "father": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "fatherhood": {
+    "noun": 1
+  },
+  "fatherless": {
+    "adjective": 1
+  },
+  "fatherlike": {
+    "noun": 1
+  },
+  "vice": {
+    "noun (1)": 1,
+    "verb (1)": 0,
+    "transitive verb": 0,
+    "verb (2)": 0,
+    "noun (2)": 0,
+    "noun": 0,
+    "preposition": 0,
+    "prefix": 0
+  },
+  "vise": {
+    "noun (1)": 1,
+    "verb (1)": 0,
+    "transitive verb": 0,
+    "verb (2)": 0,
+    "noun (2)": 0
+  },
+  "viselike": {
+    "adjective": 1
+  },
+  "ongoing": {
+    "adjective": 1
+  },
+  "ongoingness": {
+    "noun": 1
+  },
+  "criminal": {
+    "adjective": 1,
+    "noun": 0
+  },
+  "criminally": {
+    "adverb": 1
+  },
+  "these": {
+    "pronoun": 1,
+    "adjective": 0,
+    "adverb": 0
+  },
+  "dealings": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "dealing": {
+    "noun": 1
+  },
+  "potential": {
+    "adjective": 1,
+    "noun": 0
+  },
+  "potentially": {
+    "adverb": 1
+  },
+  "financial": {
+    "adjective": 1
+  },
+  "financially": {
+    "adverb": 1
+  },
+  "crimes": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "crime": {
+    "noun": 1
+  },
+  "crimeless": {
+    "adjective": 1
+  },
+  "implicated": {
+    "past tense verb": 1
+  },
+  "implicate": {
+    "verb": 1,
+    "transitive verb": 0
+  },
+  "probe": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "prober": {
+    "noun": 1
+  },
+  "denied": {
+    "past tense verb": 1
+  },
+  "wrongdoing": {
+    "noun": 1
+  },
+  "cleared": {
+    "past tense verb": 1
+  },
+  "clear": {
+    "adjective": 1,
+    "adverb": 0,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "clearness": {
+    "noun": 1
+  },
+  "clearable": {
+    "adjective": 1
+  },
+  "clearly": {
+    "adverb": 1
+  },
+  "appeal": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0,
+    "transitive verb": 0
+  },
+  "appealability": {
+    "noun": 1
+  },
+  "appealable": {
+    "adjective": 1
+  },
+  "appealer": {
+    "noun": 1
+  },
+  "putin": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "harkens": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0
+  },
+  "hearken": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0
+  },
+  "infamous": {
+    "adjective": 1
+  },
+  "infamously": {
+    "adverb": 1
+  },
+  "july": {
+    "noun": 1
+  },
+  "2016": {
+    "noun": 1
+  },
+  "you": {
+    "pronoun": 1
+  },
+  "listening": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "noun": 0
+  },
+  "listen": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "noun": 0
+  },
+  "listener": {
+    "noun": 1
+  },
+  "urged": {
+    "past tense verb": 1
+  },
+  "urge": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "urger": {
+    "noun": 1
+  },
+  "hack": {
+    "verb (1)": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun (1)": 0,
+    "noun (2)": 0,
+    "adjective": 0,
+    "verb (2)": 0,
+    "verb (3)": 0,
+    "noun (3)": 0
+  },
+  "hillary": {
+    "noun": 1
+  },
+  "clinton": {
+    "noun": 1
+  },
+  "emails": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "plural noun": 0
+  },
+  "email": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "start": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "noun": 0,
+    "abbreviation": 0
+  },
+  "years-long": {
+    "adjective": 1
+  },
+  "yearslong": {
+    "adjective": 1
+  },
+  "effort": {
+    "noun": 1
+  },
+  "prospects": {
+    "plural noun": 1
+  },
+  "help": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "helper": {
+    "noun": 1
+  },
+  "campaign": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0,
+    "transitive verb": 0
+  },
+  "campaigner": {
+    "noun": 1
+  },
+  "embraced": {
+    "past tense verb": 1
+  },
+  "embrace": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "embraceable": {
+    "adjective": 1
+  },
+  "embracement": {
+    "noun": 1
+  },
+  "embracer": {
+    "noun": 1
+  },
+  "embracingly": {
+    "adverb": 1
+  },
+  "capitalized": {
+    "past tense verb": 1
+  },
+  "capitalize": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "capitalization": {
+    "noun": 1
+  },
+  "election": {
+    "noun": 1
+  },
+  "meddling": {
+    "verb": 1,
+    "intransitive verb": 0
+  },
+  "meddle": {
+    "verb": 1,
+    "intransitive verb": 0
+  },
+  "meddler": {
+    "noun": 1
+  },
+  "against": {
+    "preposition": 1,
+    "conjunction": 0
+  },
+  "instance": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "regularly": {
+    "adverb": 1
+  },
+  "played": {
+    "past tense verb": 1
+  },
+  "play": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0,
+    "transitive verb": 0
+  },
+  "playability": {
+    "noun": 1
+  },
+  "playable": {
+    "adjective": 1
+  },
+  "democratic": {
+    "adjective": 1
+  },
+  "democratically": {
+    "adverb": 1
+  },
+  "hacked": {
+    "past tense verb": 1
+  },
+  "leaked": {
+    "past tense verb": 1
+  },
+  "leak": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "noun": 0
+  },
+  "leaker": {
+    "noun": 1
+  },
+  "leakproof": {
+    "adjective": 1
+  },
+  "members": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "member": {
+    "noun": 1
+  },
+  "inner": {
+    "adjective": 1,
+    "noun": 0
+  },
+  "innerly": {
+    "adverb": 1
+  },
+  "circle": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "circler": {
+    "noun": 1
+  },
+  "met": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0,
+    "adjective": 0,
+    "abbreviation": 0
+  },
+  "meet": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0,
+    "adjective": 0
+  },
+  "meeter": {
+    "noun": 1
+  },
+  "meetly": {
+    "adverb": 1
+  },
+  "agent": {
+    "noun": 1
+  },
+  "agentive": {
+    "adjective": 1
+  },
+  "promised": {
+    "past tense verb": 1
+  },
+  "promise": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "promisee": {
+    "noun": 1
+  },
+  "promisor": {
+    "noun": 1
+  },
+  "dirt": {
+    "noun": 1
+  },
+  "cnn": {
+    "noun": 1
+  },
+  "obtained": {
+    "noun": 1
+  },
+  "2": {
+    "noun": 1
+  },
+  "319": {
+    "noun": 1
+  },
+  "text": {
+    "noun": 1
+  },
+  "messages": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "plural noun": 0
+  },
+  "message": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "former": {
+    "noun": 1
+  },
+  "donald": {
+    "noun": 1
+  },
+  "staff": {
+    "noun": 1
+  },
+  "mark": {
+    "noun": 1
+  },
+  "meadows": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "meadow": {
+    "noun": 1
+  },
+  "meadowy": {
+    "adjective": 1
+  },
+  "sent": {
+    "noun": 1
+  },
+  "received": {
+    "noun": 1
+  },
+  "day": {
+    "noun": 1
+  },
+  "2020": {
+    "noun": 1
+  },
+  "january": {
+    "noun": 1
+  },
+  "20": {
+    "noun": 1
+  },
+  "2021": {
+    "noun": 1
+  },
+  "inauguration": {
+    "noun": 1
+  },
+  "vast": {
+    "noun": 1
+  },
+  "trove": {
+    "noun": 1
+  },
+  "texts": {
+    "plural noun": 1
+  },
+  "offers": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0,
+    "plural noun": 0
+  },
+  "offer": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "revealing": {
+    "noun": 1
+  },
+  "picture": {
+    "noun": 1
+  },
+  "date": {
+    "noun": 1
+  },
+  "supporters": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "worked": {
+    "past tense verb": 1
+  },
+  "scenes": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "scene": {
+    "noun": 1
+  },
+  "overturn": {
+    "noun": 1
+  },
+  "results": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "noun": 0,
+    "plural noun": 0
+  },
+  "result": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "resultful": {
+    "adjective": 1
+  },
+  "resultless": {
+    "adjective": 1
+  },
+  "reacted": {
+    "noun": 1
+  },
+  "violence": {
+    "noun": 1
+  },
+  "unleashed": {
+    "noun": 1
+  },
+  "capitol": {
+    "noun": 1
+  },
+  "6": {
+    "noun": 1
+  },
+  "logs": {
+    "noun (1)": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun (2)": 0,
+    "abbreviation": 0,
+    "combining form": 0,
+    "noun combining form": 0
+  },
+  "log": {
+    "noun (1)": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun (2)": 0,
+    "abbreviation": 0,
+    "combining form": 0,
+    "noun combining form": 0
+  },
+  "selectively": {
+    "noun": 1
+  },
+  "provided": {
+    "noun": 1
+  },
+  "investigating": {
+    "noun": 1
+  },
+  "nexus": {
+    "noun": 1
+  },
+  "sprawling": {
+    "noun": 1
+  },
+  "conspiracy": {
+    "noun": 1
+  },
+  "theories": {
+    "noun": 1
+  },
+  "baselessly": {
+    "noun": 1
+  },
+  "claiming": {
+    "active verb": 1
+  },
+  "stolen": {
+    "noun": 1
+  },
+  "demonstrate": {
+    "noun": 1
+  },
+  "key": {
+    "noun": 1
+  },
+  "role": {
+    "noun": 1
+  },
+  "attempts": {
+    "verb": 1,
+    "transitive verb": 0,
+    "noun": 0,
+    "plural noun": 0
+  },
+  "attempt": {
+    "verb": 1,
+    "transitive verb": 0,
+    "noun": 0
+  },
+  "attemptable": {
+    "adjective": 1
+  },
+  "certification": {
+    "noun": 1
+  },
+  "never": {
+    "noun": 1
+  },
+  "family": {
+    "noun": 1
+  },
+  "daughter": {
+    "noun": 1
+  },
+  "ivanka": {
+    "noun": 1
+  },
+  "son-in-law": {
+    "noun": 1
+  },
+  "jared": {
+    "noun": 1
+  },
+  "kushner": {
+    "noun": 1
+  },
+  "son": {
+    "noun": 1
+  },
+  "jr": {
+    "noun": 1
+  },
+  "well": {
+    "noun": 1
+  },
+  "cabinet": {
+    "noun": 1
+  },
+  "rally": {
+    "noun": 1
+  },
+  "organizers": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "organizer": {
+    "noun": 1
+  },
+  "rudy": {
+    "noun": 1
+  },
+  "giuliani": {
+    "noun": 1
+  },
+  "my": {
+    "noun": 1
+  },
+  "pillow": {
+    "noun": 1
+  },
+  "ceo": {
+    "noun": 1
+  },
+  "mike": {
+    "noun": 1
+  },
+  "lindell": {
+    "noun": 1
+  },
+  "sean": {
+    "noun": 1
+  },
+  "hannity": {
+    "noun": 1
+  },
+  "fox": {
+    "noun": 1
+  },
+  "hosts": {
+    "noun (1)": 1,
+    "verb (1)": 0,
+    "intransitive verb": 0,
+    "noun (2)": 0,
+    "verb (2)": 0,
+    "transitive verb": 0,
+    "noun (3)": 0
+  },
+  "host": {
+    "noun (1)": 1,
+    "verb (1)": 0,
+    "intransitive verb": 0,
+    "noun (2)": 0,
+    "verb (2)": 0,
+    "transitive verb": 0,
+    "noun (3)": 0
+  },
+  "exchanges": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "plural noun": 0
+  },
+  "exchange": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "exchangeability": {
+    "noun": 1
+  },
+  "exchangeable": {
+    "adjective": 1
+  },
+  "exchanger": {
+    "noun": 1
+  },
+  "40": {
+    "noun": 1
+  },
+  "current": {
+    "noun": 1
+  },
+  "sen": {
+    "noun": 1,
+    "noun (1)": 0,
+    "noun (2)": 0,
+    "noun (3)": 0,
+    "abbreviation": 0
+  },
+  "ted": {
+    "noun": 1
+  },
+  "cruz": {
+    "noun": 1
+  },
+  "texas": {
+    "noun": 1
+  },
+  "reps": {
+    "noun (1)": 1,
+    "noun (2)": 0,
+    "noun (3)": 0,
+    "noun (4)": 0,
+    "verb": 0,
+    "transitive verb": 0,
+    "noun (5)": 0,
+    "noun (6)": 0,
+    "abbreviation (1)": 0,
+    "abbreviation (2)": 0
+  },
+  "rep": {
+    "noun (1)": 1,
+    "noun (2)": 0,
+    "noun (3)": 0,
+    "noun (4)": 0,
+    "verb": 0,
+    "transitive verb": 0,
+    "noun (5)": 0,
+    "noun (6)": 0,
+    "abbreviation (1)": 0,
+    "abbreviation (2)": 0
+  },
+  "jim": {
+    "noun": 1
+  },
+  "jordan": {
+    "noun": 1
+  },
+  "ohio": {
+    "noun": 1
+  },
+  "mo": {
+    "noun": 1
+  },
+  "brooks": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "plural noun": 0
+  },
+  "brook": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "alabama": {
+    "noun": 1
+  },
+  "marjorie": {
+    "noun": 1
+  },
+  "taylor": {
+    "noun": 1
+  },
+  "greene": {
+    "noun": 1
+  },
+  "georgia": {
+    "noun": 1
+  },
+  "everything": {
+    "noun": 1
+  },
+  "fight": {
+    "noun": 1
+  },
+  "surprising": {
+    "noun": 1
+  },
+  "reactions": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "reaction": {
+    "noun": 1
+  },
+  "some": {
+    "noun": 1
+  },
+  "staunchest": {
+    "noun": 1
+  },
+  "2:28": {
+    "noun": 1
+  },
+  "p.m": {
+    "noun abbreviation": 1
+  },
+  "conservative": {
+    "noun": 1
+  },
+  "firebrand": {
+    "noun": 1
+  },
+  "helped": {
+    "past tense verb": 1
+  },
+  "objections": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "objection": {
+    "noun": 1
+  },
+  "texted": {
+    "past tense verb": 1
+  },
+  "urgent": {
+    "noun": 1
+  },
+  "plea": {
+    "noun": 1
+  },
+  "unfolding": {
+    "noun": 1
+  },
+  "i": {
+    "noun": 1
+  },
+  "just": {
+    "noun": 1
+  },
+  "active": {
+    "noun": 1
+  },
+  "shooter": {
+    "noun": 1
+  },
+  "floor": {
+    "noun": 1
+  },
+  "please": {
+    "noun": 1
+  },
+  "calm": {
+    "noun": 1
+  },
+  "solve": {
+    "noun": 1
+  },
+  "anything": {
+    "noun": 1
+  },
+  "wrote": {
+    "noun": 1
+  },
+  "reply": {
+    "noun": 1
+  },
+  "flooded": {
+    "noun": 1
+  },
+  "mark:": {
+    "noun": 1
+  },
+  "needs": {
+    "plural noun": 1
+  },
+  "now": {
+    "noun": 1
+  },
+  "man": {
+    "noun": 1
+  },
+  "walked": {
+    "noun": 1
+  },
+  "twitter": {
+    "noun": 1
+  },
+  "sell": {
+    "noun": 1
+  },
+  "itself": {
+    "noun": 1
+  },
+  "elon": {
+    "noun": 1
+  },
+  "musk": {
+    "noun": 1
+  },
+  "valued": {
+    "noun": 1
+  },
+  "$44": {
+    "noun": 1
+  },
+  "billion": {
+    "noun": 1
+  },
+  "company": {
+    "noun": 1
+  },
+  "monday": {
+    "noun": 1
+  },
+  "caps": {
+    "noun (1)": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun (2)": 0,
+    "noun (3)": 0,
+    "abbreviation (1)": 0,
+    "abbreviation (2)": 0
+  },
+  "cap": {
+    "noun (1)": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun (2)": 0,
+    "noun (3)": 0,
+    "abbreviation (1)": 0,
+    "abbreviation (2)": 0
+  },
+  "off": {
+    "noun": 1
+  },
+  "whirlwind": {
+    "noun": 1
+  },
+  "cycle": {
+    "noun": 1
+  },
+  "tesla": {
+    "noun": 1
+  },
+  "spacex": {
+    "noun": 1
+  },
+  "became": {
+    "noun": 1
+  },
+  "shareholders": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "shareholder": {
+    "noun": 1
+  },
+  "shareholding": {
+    "noun": 1
+  },
+  "offered": {
+    "past tense verb": 1
+  },
+  "turned": {
+    "noun": 1
+  },
+  "seat": {
+    "noun": 1
+  },
+  "board": {
+    "noun": 1
+  },
+  "bid": {
+    "noun": 1
+  },
+  "buy": {
+    "noun": 1
+  },
+  "\u2014": {
+    "noun": 1
+  },
+  "less": {
+    "abbreviation": 1
+  },
+  "le": {
+    "abbreviation": 1
+  },
+  "under": {
+    "noun": 1
+  },
+  "terms": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "plural noun": 0
+  },
+  "term": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "receive": {
+    "noun": 1
+  },
+  "$54.20": {
+    "noun abbreviation": 1
+  },
+  "cash": {
+    "noun": 1
+  },
+  "stock": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "adjective": 0
+  },
+  "own": {
+    "noun": 1
+  },
+  "matching": {
+    "noun": 1
+  },
+  "original": {
+    "noun": 1
+  },
+  "marking": {
+    "active verb": 1
+  },
+  "38%": {
+    "noun": 1
+  },
+  "premium": {
+    "noun": 1
+  },
+  "price": {
+    "noun": 1
+  },
+  "revealed": {
+    "noun": 1
+  },
+  "stake": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "conducted": {
+    "noun": 1
+  },
+  "thoughtful": {
+    "noun": 1
+  },
+  "process": {
+    "noun": 1
+  },
+  "proposal": {
+    "noun": 1
+  },
+  "deliberate": {
+    "noun": 1
+  },
+  "certainty": {
+    "noun": 1
+  },
+  "financing": {
+    "noun": 1
+  },
+  "independent": {
+    "noun": 1
+  },
+  "chair": {
+    "noun": 1
+  },
+  "bret": {
+    "noun": 1
+  },
+  "calling": {
+    "active verb": 1
+  },
+  "path": {
+    "noun": 1
+  },
+  "forward": {
+    "noun": 1
+  },
+  "stockholders": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "stockholder": {
+    "noun": 1
+  },
+  "stockholding": {
+    "": 1
+  },
+  "expected": {
+    "past tense verb": 1
+  },
+  "close": {
+    "noun": 1
+  },
+  "comes": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "noun": 0,
+    "plural noun": 0
+  },
+  "come": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "noun": 0
+  },
+  "lined": {
+    "noun": 1
+  },
+  "$46.5": {
+    "noun abbreviation": 1
+  },
+  "acquire": {
+    "noun": 1
+  },
+  "apparent": {
+    "noun": 1
+  },
+  "turning": {
+    "noun": 1
+  },
+  "forced": {
+    "noun": 1
+  },
+  "seriously": {
+    "noun": 1
+  },
+  "consider": {
+    "noun": 1
+  },
+  "sunday": {
+    "noun": 1
+  },
+  "evaluate": {
+    "noun": 1
+  },
+  "roughly": {
+    "noun": 1
+  },
+  "expand": {
+    "noun": 1
+  },
+  "billionaire": {
+    "noun": 1
+  },
+  "business": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "busine": {
+    "noun": 1
+  },
+  "empire": {
+    "noun": 1
+  },
+  "put": {
+    "noun": 1
+  },
+  "richest": {
+    "noun": 1
+  },
+  "charge": {
+    "noun": 1
+  },
+  "influential": {
+    "noun": 1
+  },
+  "networks": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "plural noun": 0
+  },
+  "network": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "networker": {
+    "noun": 1
+  },
+  "private": {
+    "noun": 1
+  },
+  "free": {
+    "noun": 1
+  },
+  "speech": {
+    "noun": 1
+  },
+  "bedrock": {
+    "noun": 1
+  },
+  "functioning": {
+    "noun": 1
+  },
+  "democracy": {
+    "noun": 1
+  },
+  "digital": {
+    "noun": 1
+  },
+  "town": {
+    "noun": 1
+  },
+  "square": {
+    "noun": 1
+  },
+  "matters": {
+    "plural noun": 1
+  },
+  "vital": {
+    "noun": 1
+  },
+  "future": {
+    "noun": 1
+  },
+  "humanity": {
+    "noun": 1
+  },
+  "debated": {
+    "noun": 1
+  },
+  "tremendous": {
+    "noun": 1
+  },
+  "look": {
+    "noun": 1
+  },
+  "community": {
+    "noun": 1
+  },
+  "users": {
+    "plural noun": 1
+  },
+  "unlock": {
+    "noun": 1
+  },
+  "unanimously": {
+    "noun": 1
+  },
+  "approved": {
+    "noun": 1
+  },
+  "nearly": {
+    "noun": 1
+  },
+  "6%": {
+    "noun": 1
+  },
+  "following": {
+    "noun": 1
+  },
+  "announcement": {
+    "noun": 1
+  },
+  "hovering": {
+    "noun": 1
+  },
+  "$51.84": {
+    "noun abbreviation": 1
+  },
+  "shy": {
+    "noun": 1
+  },
+  "pending": {
+    "noun": 1
+  },
+  "approval": {
+    "noun": 1
+  },
+  "regulators": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "regulator": {
+    "noun": 1
+  },
+  "internal": {
+    "noun": 1
+  },
+  "employees": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "employee": {
+    "noun": 1
+  },
+  "parag": {
+    "noun": 1
+  },
+  "agrawal": {
+    "noun": 1
+  },
+  "hold": {
+    "noun": 1
+  },
+  "all-hands": {
+    "noun": 1
+  },
+  "afternoon": {
+    "noun": 1
+  },
+  "answer": {
+    "noun": 1
+  },
+  "questions": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "plural noun": 0
+  },
+  "question": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "questioner": {
+    "noun": 1
+  },
+  "know": {
+    "noun": 1
+  },
+  "significant": {
+    "noun": 1
+  },
+  "likely": {
+    "noun": 1
+  },
+  "processing": {
+    "active verb": 1
+  },
+  "means": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "adjective (1)": 0,
+    "adjective (2)": 0,
+    "noun": 0,
+    "plural noun": 0
+  },
+  "mean": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "adjective (1)": 0,
+    "adjective (2)": 0,
+    "noun": 0
+  },
+  "meaner": {
+    "noun": 1
+  },
+  "meanness": {
+    "noun": 1
+  },
+  "meanly": {
+    "adverb": 1
+  },
+  "high-profile": {
+    "noun": 1
+  },
+  "controversial": {
+    "noun": 1
+  },
+  "83": {
+    "noun": 1
+  },
+  "million": {
+    "noun": 1
+  },
+  "followers": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "follower": {
+    "noun": 1
+  },
+  "platform": {
+    "noun": 1
+  },
+  "used": {
+    "past tense verb": 1
+  },
+  "years": {
+    "plural noun": 1
+  },
+  "sharing": {
+    "noun": 1
+  },
+  "memes": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "meme": {
+    "noun": 1
+  },
+  "memetic": {
+    "adjective": 1
+  },
+  "companies": {
+    "plural noun": 1
+  },
+  "insulting": {
+    "noun": 1
+  },
+  "politicians": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "politician": {
+    "noun": 1
+  },
+  "spreading": {
+    "noun": 1
+  },
+  "misleading": {
+    "noun": 1
+  },
+  "making": {
+    "noun": 1
+  },
+  "offensive": {
+    "noun": 1
+  },
+  "remarks": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "plural noun": 0
+  },
+  "remark": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "transgender": {
+    "noun": 1
+  },
+  "repeatedly": {
+    "noun": 1
+  },
+  "stressed": {
+    "noun": 1
+  },
+  "goal": {
+    "noun": 1
+  },
+  "bolster": {
+    "noun": 1
+  },
+  "extraordinary": {
+    "noun": 1
+  },
+  "whistleblower": {
+    "noun": 1
+  },
+  "holding": {
+    "active verb": 1
+  },
+  "envelope": {
+    "noun": 1
+  },
+  "story": {
+    "noun": 1
+  },
+  "transformed": {
+    "noun": 1
+  },
+  "grinding": {
+    "noun": 1
+  },
+  "attrition": {
+    "noun": 1
+  },
+  "meaningful": {
+    "noun": 1
+  },
+  "sight": {
+    "noun": 1
+  },
+  "begun": {
+    "noun": 1
+  },
+  "convey": {
+    "noun": 1
+  },
+  "war:": {
+    "noun": 1
+  },
+  "defeat": {
+    "noun": 1
+  },
+  "decisively": {
+    "noun": 1
+  },
+  "battlefield": {
+    "noun": 1
+  },
+  "deterred": {
+    "noun": 1
+  },
+  "launching": {
+    "active verb": 1
+  },
+  "such": {
+    "noun": 1
+  },
+  "ever": {
+    "noun": 1
+  },
+  "again": {
+    "noun": 1
+  },
+  "delivered": {
+    "noun": 1
+  },
+  "secretary": {
+    "noun": 1
+  },
+  "lloyd": {
+    "noun": 1
+  },
+  "austin": {
+    "noun": 1
+  },
+  "trip": {
+    "noun": 1
+  },
+  "city": {
+    "noun": 1
+  },
+  "want": {
+    "noun": 1
+  },
+  "see": {
+    "noun": 1
+  },
+  "weakened": {
+    "noun": 1
+  },
+  "degree": {
+    "noun": 1
+  },
+  "ca": {
+    "noun": 1
+  },
+  "kinds": {
+    "noun": 1,
+    "adjective": 0,
+    "plural noun": 0
+  },
+  "kind": {
+    "noun": 1,
+    "adjective": 0
+  },
+  "things": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "thing": {
+    "noun": 1
+  },
+  "invading": {
+    "noun": 1
+  },
+  "security": {
+    "noun": 1
+  },
+  "council": {
+    "noun": 1
+  },
+  "spokesperson": {
+    "noun": 1
+  },
+  "comments": {
+    "plural noun": 1
+  },
+  "goals": {
+    "plural noun": 1
+  },
+  "namely": {
+    "noun": 1
+  },
+  "win": {
+    "noun": 1
+  },
+  "limit": {
+    "noun": 1
+  },
+  "like": {
+    "noun": 1
+  },
+  "why": {
+    "noun": 1
+  },
+  "arming": {
+    "noun": 1
+  },
+  "ukrainians": {
+    "plural noun": 1
+  },
+  "weapons": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "plural noun": 0
+  },
+  "weapon": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "equipment": {
+    "noun": 1
+  },
+  "defend": {
+    "noun": 1
+  },
+  "themselves": {
+    "noun": 1
+  },
+  "using": {
+    "active verb": 1
+  },
+  "export": {
+    "noun": 1
+  },
+  "controls": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0,
+    "plural noun": 0
+  },
+  "control": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun": 0
+  },
+  "controllability": {
+    "noun": 1
+  },
+  "controllable": {
+    "adjective": 1
+  },
+  "controlment": {
+    "noun": 1
+  },
+  "targeted": {
+    "noun": 1
+  },
+  "industry": {
+    "noun": 1
+  },
+  "undercut": {
+    "noun": 1
+  },
+  "power": {
+    "noun": 1
+  },
+  "threaten": {
+    "noun": 1
+  },
+  "neighbors": {
+    "noun": 1,
+    "adjective": 0,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "plural noun": 0
+  },
+  "neighbor": {
+    "noun": 1,
+    "adjective": 0,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "neighboring": {
+    "adjective": 1
+  },
+  "germany": {
+    "noun": 1
+  },
+  "deliver": {
+    "noun": 1
+  },
+  "anti-aircraft": {
+    "noun": 1
+  },
+  "tanks": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "plural noun": 0
+  },
+  "tank": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "tankful": {
+    "noun": 1
+  },
+  "tanklike": {
+    "adjective": 1
+  },
+  "german": {
+    "noun": 1
+  },
+  "ministry": {
+    "noun": 1
+  },
+  "announced": {
+    "noun": 0,
+    "verb": 1
+  },
+  "move": {
+    "noun": 1
+  },
+  "underscores": {
+    "plural noun": 1
+  },
+  "major": {
+    "noun": 1
+  },
+  "shift": {
+    "noun": 1
+  },
+  "approach": {
+    "noun": 1
+  },
+  "providing": {
+    "noun": 1
+  },
+  "commitment": {
+    "noun": 1
+  },
+  "gepard": {
+    "noun": 1
+  },
+  "systems": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "system": {
+    "noun": 1
+  },
+  "systemless": {
+    "adjective": 1
+  },
+  "christine": {
+    "noun": 1
+  },
+  "lambrecht": {
+    "noun": 1
+  },
+  "ramstein": {
+    "noun": 1
+  },
+  "air": {
+    "noun": 1
+  },
+  "force": {
+    "noun": 1
+  },
+  "base": {
+    "noun": 1
+  },
+  "decided": {
+    "noun": 1
+  },
+  "yesterday": {
+    "noun": 1
+  },
+  "exactly": {
+    "noun": 1
+  },
+  "secure": {
+    "noun": 1
+  },
+  "airspace": {
+    "noun": 1
+  },
+  "ground": {
+    "noun": 1
+  },
+  "time": {
+    "noun": 1
+  },
+  "provide": {
+    "noun": 1
+  },
+  "type": {
+    "noun": 1
+  },
+  "heavy": {
+    "noun": 1
+  },
+  "weaponry": {
+    "noun": 1
+  },
+  "fights": {
+    "plural noun": 1
+  },
+  "phased": {
+    "noun": 1
+  },
+  "duty": {
+    "noun": 1
+  },
+  "2010": {
+    "noun": 1
+  },
+  "initially": {
+    "noun": 1
+  },
+  "resisted": {
+    "noun": 1
+  },
+  "calls": {
+    "plural noun": 1
+  },
+  "agreeing": {
+    "active verb": 1
+  },
+  "medical": {
+    "noun": 1
+  },
+  "decades-long": {
+    "noun": 1
+  },
+  "supplying": {
+    "active verb": 1
+  },
+  "lethal": {
+    "noun": 1
+  },
+  "zone": {
+    "noun": 1
+  },
+  "vladimir": {
+    "noun": 1
+  },
+  "order": {
+    "noun": 1
+  },
+  "restrictive": {
+    "noun": 1
+  },
+  "arms": {
+    "noun (1)": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun (2)": 0,
+    "abbreviation (1)": 0,
+    "abbreviation (2)": 0
+  },
+  "arm": {
+    "noun (1)": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun (2)": 0,
+    "abbreviation (1)": 0,
+    "abbreviation (2)": 0
+  },
+  "armless": {
+    "adjective": 1
+  },
+  "armlike": {
+    "adjective": 1
+  },
+  "coalition": {
+    "noun": 1
+  },
+  "facing": {
+    "noun": 1
+  },
+  "pressure": {
+    "noun": 1
+  },
+  "overhaul": {
+    "noun": 1
+  },
+  "rules": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "plural noun": 0
+  },
+  "rule": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "late": {
+    "noun": 1
+  },
+  "chancellor": {
+    "noun": 1
+  },
+  "olaf": {
+    "noun": 1
+  },
+  "scholz": {
+    "noun": 1
+  },
+  "delivering": {
+    "active verb": 1
+  },
+  "although": {
+    "noun": 1
+  },
+  "insisted": {
+    "noun": 1
+  },
+  "them": {
+    "noun": 1
+  },
+  "pumping": {
+    "noun": 1
+  },
+  "money": {
+    "noun": 1
+  },
+  "forces": {
+    "plural noun": 1
+  },
+  "investment": {
+    "noun": 1
+  },
+  "confirmed": {
+    "noun": 1
+  },
+  "35": {
+    "noun": 1
+  },
+  "f": {
+    "noun": 1
+  },
+  "35a": {
+    "noun": 1
+  },
+  "jets": {
+    "noun (1)": 1,
+    "verb (1)": 0,
+    "intransitive verb": 0,
+    "verb (2)": 0,
+    "transitive verb": 0,
+    "noun (2)": 0,
+    "adjective": 0
+  },
+  "jet": {
+    "noun (1)": 1,
+    "verb (1)": 0,
+    "intransitive verb": 0,
+    "verb (2)": 0,
+    "transitive verb": 0,
+    "noun (2)": 0,
+    "adjective": 0
+  },
+  "jetlike": {
+    "adjective": 1
+  },
+  "france": {
+    "noun": 1
+  },
+  "padalecki": {
+    "noun": 1
+  },
+  "recovering": {
+    "noun": 1
+  },
+  "car": {
+    "noun": 1
+  },
+  "accident": {
+    "noun": 1
+  },
+  "according": {
+    "noun": 1
+  },
+  "supernatural": {
+    "noun": 1
+  },
+  "co-star": {
+    "noun": 1
+  },
+  "jensen": {
+    "noun": 1
+  },
+  "ackles": {
+    "noun": 1
+  },
+  "permission": {
+    "noun": 1
+  },
+  "fan": {
+    "noun": 1
+  },
+  "event": {
+    "noun": 1
+  },
+  "jersey": {
+    "noun": 1
+  },
+  "weekend": {
+    "noun": 1
+  },
+  "video": {
+    "noun": 1
+  },
+  "shared": {
+    "noun": 1
+  },
+  "guys": {
+    "noun (1)": 1,
+    "noun (2)": 0,
+    "verb (1)": 0,
+    "transitive verb": 0,
+    "verb (2)": 0
+  },
+  "guy": {
+    "noun (1)": 1,
+    "noun (2)": 0,
+    "verb (1)": 0,
+    "transitive verb": 0,
+    "verb (2)": 0
+  },
+  "going": {
+    "noun": 1
+  },
+  "very": {
+    "noun": 1
+  },
+  "bad": {
+    "noun": 1
+  },
+  "driving": {
+    "noun": 1
+  },
+  "passenger": {
+    "noun": 1
+  },
+  "lucky": {
+    "noun": 1
+  },
+  "alive": {
+    "noun": 1
+  },
+  "reached": {
+    "noun": 1
+  },
+  "representative": {
+    "noun": 1
+  },
+  "home": {
+    "noun": 1
+  },
+  "hospital": {
+    "noun": 1
+  },
+  "blowing": {
+    "noun": 1
+  },
+  "mind": {
+    "noun": 1
+  },
+  "because": {
+    "noun": 1
+  },
+  "attorney": {
+    "noun": 1
+  },
+  "merrick": {
+    "noun": 1
+  },
+  "garland": {
+    "noun": 1
+  },
+  "supports": {
+    "verb": 1,
+    "transitive verb": 0,
+    "noun": 0,
+    "plural noun": 0
+  },
+  "efforts": {
+    "plural noun": 1
+  },
+  "allow": {
+    "noun": 1
+  },
+  "proceeds": {
+    "verb": 1,
+    "intransitive verb": 0
+  },
+  "proceed": {
+    "verb": 1,
+    "intransitive verb": 0
+  },
+  "assets": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "asset": {
+    "noun": 1
+  },
+  "seizes": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "oligarchs": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "oligarch": {
+    "noun": 1
+  },
+  "go": {
+    "noun": 1
+  },
+  "legislation": {
+    "noun": 1
+  },
+  "appropriations": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "appropriation": {
+    "noun": 1
+  },
+  "appropriative": {
+    "adjective": 1
+  },
+  "handles": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "plural noun": 0
+  },
+  "handle": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "handled": {
+    "adjective": 1
+  },
+  "handleless": {
+    "adjective": 1
+  },
+  "handleable": {
+    "adjective": 1
+  },
+  "handler": {
+    "noun": 1
+  },
+  "recovered": {
+    "noun": 1
+  },
+  "circumstance": {
+    "noun": 1
+  },
+  "earlier": {
+    "noun": 1
+  },
+  "special": {
+    "noun": 1
+  },
+  "unit": {
+    "noun": 1
+  },
+  "enforce": {
+    "noun": 1
+  },
+  "targeting": {
+    "noun": 1
+  },
+  "yachts": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0,
+    "plural noun": 0
+  },
+  "yacht": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0
+  },
+  "real": {
+    "noun": 1
+  },
+  "estate": {
+    "noun": 1
+  },
+  "kleptocapture": {
+    "noun": 1
+  },
+  "includes": {
+    "plural noun": 1
+  },
+  "prosecutors": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "prosecutor": {
+    "noun": 1
+  },
+  "federal": {
+    "noun": 1
+  },
+  "agents": {
+    "plural noun": 1
+  },
+  "experts": {
+    "noun": 1,
+    "adjective": 0,
+    "verb": 0,
+    "intransitive verb": 0,
+    "plural noun": 0
+  },
+  "expert": {
+    "noun": 1,
+    "adjective": 0,
+    "verb": 0,
+    "intransitive verb": 0
+  },
+  "expertly": {
+    "adverb": 1
+  },
+  "expertness": {
+    "noun": 1
+  },
+  "laundering": {
+    "noun": 1
+  },
+  "tax": {
+    "noun": 1
+  },
+  "enforcement": {
+    "noun": 1
+  },
+  "fbi": {
+    "noun": 1
+  },
+  "irs": {
+    "symbol": 1,
+    "abbreviation": 0,
+    "prefix": 0
+  },
+  "ir": {
+    "symbol": 1,
+    "abbreviation": 0,
+    "prefix": 0
+  },
+  "marshals": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "plural noun": 0
+  },
+  "marshal": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "marshalcy": {
+    "noun": 1
+  },
+  "marshalship": {
+    "noun": 1
+  },
+  "postal": {
+    "noun": 1
+  },
+  "inspection": {
+    "noun": 1
+  },
+  "seizure": {
+    "noun": 1
+  },
+  "$90": {
+    "noun": 1
+  },
+  "255": {
+    "noun": 1
+  },
+  "foot": {
+    "noun": 1
+  },
+  "luxury": {
+    "noun": 1
+  },
+  "owned": {
+    "past tense verb": 1
+  },
+  "seized": {
+    "noun": 1
+  },
+  "spanish": {
+    "noun": 1
+  },
+  "law": {
+    "noun": 1
+  },
+  "condemned": {
+    "noun": 1
+  },
+  "testimony": {
+    "noun": 1
+  },
+  "decrying": {
+    "noun": 1
+  },
+  "horrible": {
+    "noun": 1
+  },
+  "atrocities": {
+    "noun": 1
+  },
+  "being": {
+    "active verb": 1
+  },
+  "seen": {
+    "noun": 1
+  },
+  "videos": {
+    "plural noun": 1
+  },
+  "photos": {
+    "noun": 1,
+    "verb": 0,
+    "adjective": 0,
+    "plural noun": 0
+  },
+  "photo": {
+    "noun": 1,
+    "verb": 0,
+    "adjective": 0
+  },
+  "plunged": {
+    "noun": 1
+  },
+  "dow": {
+    "noun": 1
+  },
+  "fell": {
+    "noun": 1
+  },
+  "810": {
+    "noun": 1
+  },
+  "2.4%": {
+    "noun abbreviation": 1
+  },
+  "april": {
+    "noun": 1
+  },
+  "sell-off": {
+    "noun": 1
+  },
+  "spurred": {
+    "noun": 1
+  },
+  "fears": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "plural noun": 0
+  },
+  "fear": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "fearer": {
+    "noun": 1
+  },
+  "slowdown": {
+    "noun": 1
+  },
+  "short-lived": {
+    "noun": 1
+  },
+  "recovery": {
+    "noun": 1
+  },
+  "losses": {
+    "noun": 1
+  },
+  "mega": {
+    "noun": 1
+  },
+  "tech": {
+    "noun": 1
+  },
+  "stocks": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "adjective": 0,
+    "plural noun": 0
+  },
+  "await": {
+    "noun": 1
+  },
+  "corporate": {
+    "noun": 1
+  },
+  "earnings": {
+    "verb (1)": 1,
+    "transitive verb": 0,
+    "verb (2)": 0,
+    "intransitive verb": 0
+  },
+  "earn": {
+    "verb (1)": 1,
+    "transitive verb": 0,
+    "verb (2)": 0,
+    "intransitive verb": 0
+  },
+  "earner": {
+    "noun": 1
+  },
+  "reports": {
+    "plural noun": 1
+  },
+  "quarter": {
+    "noun": 1
+  },
+  "microsoft": {
+    "noun": 1
+  },
+  "msft": {
+    "noun": 1
+  },
+  "google": {
+    "noun": 1
+  },
+  "parent": {
+    "noun": 1
+  },
+  "alphabet": {
+    "noun": 1
+  },
+  "googl": {
+    "noun": 1
+  },
+  "released": {
+    "noun": 1
+  },
+  "today": {
+    "noun": 1
+  },
+  "closing": {
+    "noun": 1
+  },
+  "bell": {
+    "noun": 1
+  },
+  "nasdaq": {
+    "noun": 1
+  },
+  "dropped": {
+    "noun": 1
+  },
+  "4%": {
+    "noun": 1
+  },
+  "further": {
+    "noun": 1
+  },
+  "retreating": {
+    "noun": 1
+  },
+  "bear-market": {
+    "noun": 1
+  },
+  "territory": {
+    "noun": 1
+  },
+  "22%": {
+    "noun": 1
+  },
+  "high": {
+    "noun": 1
+  },
+  "posted": {
+    "noun": 1
+  },
+  "52": {
+    "noun": 1
+  },
+  "s\u0026p": {
+    "noun": 1
+  },
+  "2.8%": {
+    "noun abbreviation": 1
+  },
+  "reserve": {
+    "noun": 1
+  },
+  "chairman": {
+    "noun": 1
+  },
+  "jerome": {
+    "noun": 1
+  },
+  "powell": {
+    "noun": 1
+  },
+  "indicated": {
+    "noun": 1
+  },
+  "friday": {
+    "noun": 1
+  },
+  "aggressive": {
+    "noun": 1
+  },
+  "rate": {
+    "noun": 1
+  },
+  "hikes": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "noun": 0,
+    "plural noun": 0
+  },
+  "hike": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "noun": 0
+  },
+  "hiker": {
+    "noun": 1
+  },
+  "980": {
+    "noun": 1
+  },
+  "increases": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "noun": 0,
+    "plural noun": 0
+  },
+  "increase": {
+    "verb": 1,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "noun": 0
+  },
+  "increasable": {
+    "adjective": 1
+  },
+  "increaser": {
+    "noun": 1
+  },
+  "meant": {
+    "noun": 1
+  },
+  "quell": {
+    "noun": 1
+  },
+  "runaway": {
+    "noun": 1
+  },
+  "inflation": {
+    "noun": 1
+  },
+  "worried": {
+    "noun": 1
+  },
+  "spike": {
+    "noun": 1
+  },
+  "slow": {
+    "noun": 1
+  },
+  "consumer": {
+    "noun": 1
+  },
+  "spending": {
+    "noun": 1
+  },
+  "housing": {
+    "noun": 1
+  },
+  "ushering": {
+    "noun": 1
+  },
+  "recession": {
+    "noun": 1
+  },
+  "falls": {
+    "plural noun": 1
+  },
+  "1": {
+    "noun": 1
+  },
+  "000": {
+    "noun": 1
+  },
+  "poor": {
+    "noun": 1
+  },
+  "verizon": {
+    "noun": 1
+  },
+  "fast": {
+    "noun": 1
+  },
+  "growing": {
+    "noun": 1
+  },
+  "closely": {
+    "noun": 1
+  },
+  "linked": {
+    "noun": 1
+  },
+  "decisions": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "plural noun": 0
+  },
+  "decision": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "decisional": {
+    "adjective": 1
+  },
+  "sensitive": {
+    "noun": 1
+  },
+  "ratios": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "ratio": {
+    "noun": 1
+  },
+  "typically": {
+    "noun": 1
+  },
+  "profits": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0,
+    "transitive verb": 0,
+    "plural noun": 0
+  },
+  "profit": {
+    "noun": 1,
+    "verb": 0,
+    "intransitive verb": 0,
+    "transitive verb": 0
+  },
+  "profitless": {
+    "adjective": 1
+  },
+  "profitwise": {
+    "adverb": 1
+  },
+  "higher": {
+    "noun": 1
+  },
+  "rates": {
+    "plural noun": 1
+  },
+  "worth": {
+    "noun": 1
+  },
+  "cyclical": {
+    "noun": 1
+  },
+  "component": {
+    "noun": 1
+  },
+  "3m": {
+    "noun": 1
+  },
+  "3%": {
+    "noun": 1
+  },
+  "shares": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "noun (1)": 0,
+    "noun (2)": 0
+  },
+  "ups": {
+    "plural noun": 1
+  },
+  "though": {
+    "noun": 1
+  },
+  "beat": {
+    "noun": 1
+  },
+  "expectations": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "expectation": {
+    "noun": 1
+  },
+  "expectational": {
+    "adjective": 1
+  },
+  "electric": {
+    "noun": 1
+  },
+  "plummeted": {
+    "noun": 1
+  },
+  "10%": {
+    "noun": 1
+  },
+  "warning": {
+    "noun": 1
+  },
+  "2022": {
+    "noun": 1
+  },
+  "outlook": {
+    "noun": 1
+  },
+  "trending": {
+    "noun": 1
+  },
+  "toward": {
+    "noun": 1
+  },
+  "running": {
+    "noun": 1
+  },
+  "nothing": {
+    "noun": 1
+  },
+  "your": {
+    "noun": 1
+  },
+  "significantly": {
+    "noun": 1
+  },
+  "complicated": {
+    "noun": 1
+  },
+  "knotty": {
+    "noun": 1
+  },
+  "incumbents": {
+    "noun": 1,
+    "adjective": 0,
+    "plural noun": 0
+  },
+  "incumbent": {
+    "noun": 1,
+    "adjective": 0
+  },
+  "attempting": {
+    "active verb": 1
+  },
+  "walk": {
+    "noun": 1
+  },
+  "run": {
+    "noun": 1
+  },
+  "reelection": {
+    "noun": 1
+  },
+  "every": {
+    "noun": 1
+  },
+  "lever": {
+    "noun": 1
+  },
+  "unpopular": {
+    "noun": 1
+  },
+  "democrats": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "democrat": {
+    "noun": 1
+  },
+  "sens": {
+    "noun (1)": 1,
+    "noun (2)": 0,
+    "noun (3)": 0,
+    "abbreviation": 0
+  },
+  "raphael": {
+    "noun": 1
+  },
+  "warnock": {
+    "noun": 1
+  },
+  "kelly": {
+    "noun": 1
+  },
+  "arizona": {
+    "noun": 1
+  },
+  "maggie": {
+    "noun": 1
+  },
+  "hassan": {
+    "noun": 1
+  },
+  "hampshire": {
+    "noun": 1
+  },
+  "catherine": {
+    "noun": 1
+  },
+  "cortez": {
+    "noun": 1
+  },
+  "masto": {
+    "noun": 1
+  },
+  "nevada": {
+    "noun": 1
+  },
+  "illustrate": {
+    "noun": 1
+  },
+  "view": {
+    "noun": 1
+  },
+  "slew": {
+    "noun": 1
+  },
+  "non-incumbents": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "nonincumbent": {
+    "noun": 1
+  },
+  "north": {
+    "noun": 1
+  },
+  "carolina": {
+    "noun": 1
+  },
+  "pennsylvania": {
+    "noun": 1
+  },
+  "challenging": {
+    "noun": 1
+  },
+  "effectiveness": {
+    "noun": 1
+  },
+  "controlled": {
+    "noun": 1
+  },
+  "rating": {
+    "noun": 1
+  },
+  "20s": {
+    "plural noun": 1
+  },
+  "50%": {
+    "noun": 1
+  },
+  "registered": {
+    "noun": 1
+  },
+  "voters": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "voter": {
+    "noun": 1
+  },
+  "disapprove": {
+    "noun": 1
+  },
+  "job": {
+    "noun": 1
+  },
+  "doing": {
+    "active verb": 1
+  },
+  "clearest": {
+    "noun": 1
+  },
+  "distancing": {
+    "noun": 1
+  },
+  "came": {
+    "noun": 1
+  },
+  "ad": {
+    "noun": 1
+  },
+  "admitting": {
+    "noun": 1
+  },
+  "obvious:": {
+    "noun": 1
+  },
+  "fix": {
+    "noun": 1
+  },
+  "dysfunction": {
+    "noun": 1
+  },
+  "am": {
+    "noun": 1
+  },
+  "dad": {
+    "noun": 1
+  },
+  "pastor": {
+    "noun": 1
+  },
+  "magician": {
+    "noun": 1
+  },
+  "opinion:": {
+    "noun": 1
+  },
+  "germany\u0026": {
+    "noun": 1
+  },
+  "dramatic": {
+    "noun": 1
+  },
+  "escalation": {
+    "noun": 1
+  },
+  "tensions": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "plural noun": 0
+  },
+  "tension": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0
+  },
+  "tensional": {
+    "adjective": 1
+  },
+  "tensionless": {
+    "adjective": 1
+  },
+  "tensioner": {
+    "noun": 1
+  },
+  "energy": {
+    "noun": 1
+  },
+  "giant": {
+    "noun": 1
+  },
+  "gazprom": {
+    "noun": 1
+  },
+  "poland": {
+    "noun": 1
+  },
+  "gas": {
+    "abbreviation (1)": 1,
+    "abbreviation (2)": 0,
+    "symbol": 0,
+    "abbreviation (3)": 0
+  },
+  "ga": {
+    "abbreviation (1)": 1,
+    "abbreviation (2)": 0,
+    "symbol": 0,
+    "abbreviation (3)": 0
+  },
+  "firm": {
+    "noun": 1
+  },
+  "pgnig": {
+    "noun": 1
+  },
+  "entirely": {
+    "noun": 1
+  },
+  "suspend": {
+    "noun": 1
+  },
+  "supplies": {
+    "plural noun": 1
+  },
+  "yamal": {
+    "noun": 1
+  },
+  "pipeline": {
+    "noun": 1
+  },
+  "starting": {
+    "active verb": 1
+  },
+  "wednesday": {
+    "noun": 1
+  },
+  "morning": {
+    "noun": 1
+  },
+  "26": {
+    "noun": 1
+  },
+  "intention": {
+    "noun": 1
+  },
+  "deliveries": {
+    "noun": 1
+  },
+  "contract": {
+    "noun": 1
+  },
+  "beginning": {
+    "noun": 1
+  },
+  "27": {
+    "noun": 1
+  },
+  "natural": {
+    "noun": 1
+  },
+  "futures": {
+    "plural noun": 1
+  },
+  "confirm": {
+    "noun": 1
+  },
+  "stopped": {
+    "noun": 1
+  },
+  "agency": {
+    "noun": 1
+  },
+  "tass": {
+    "noun (1)": 1,
+    "symbol": 0,
+    "abbreviation": 0,
+    "noun (2)": 0
+  },
+  "ta": {
+    "noun (1)": 1,
+    "symbol": 0,
+    "abbreviation": 0,
+    "noun (2)": 0
+  },
+  "sergey": {
+    "noun": 1
+  },
+  "kupriyanov": {
+    "noun": 1
+  },
+  "however": {
+    "noun": 1
+  },
+  "rubles": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "ruble": {
+    "noun": 1
+  },
+  "demand": {
+    "noun": 1
+  },
+  "warsaw": {
+    "noun": 1
+  },
+  "ultimatum": {
+    "noun": 1
+  },
+  "unfriendly": {
+    "noun": 1
+  },
+  "risk": {
+    "noun": 1
+  },
+  "cut": {
+    "noun": 1
+  },
+  "flow": {
+    "noun": 1
+  },
+  "kremlin": {
+    "noun": 1
+  },
+  "payments": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "payment": {
+    "noun": 1
+  },
+  "due": {
+    "noun": 1
+  },
+  "immediately": {
+    "noun": 1
+  },
+  "shut": {
+    "noun": 1
+  },
+  "stakes": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "plural noun": 0
+  },
+  "shockwaves": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "through": {
+    "noun": 1
+  },
+  "cannot": {
+    "noun": 1
+  },
+  "keep": {
+    "noun": 1
+  },
+  "without": {
+    "noun": 1
+  },
+  "reduce": {
+    "noun": 1
+  },
+  "flows": {
+    "plural noun": 1
+  },
+  "perhaps": {
+    "noun": 1
+  },
+  "deter": {
+    "noun": 1
+  },
+  "tougher": {
+    "noun": 1
+  },
+  "prepared": {
+    "noun": 1
+  },
+  "obtain": {
+    "noun": 1
+  },
+  "various": {
+    "noun": 1
+  },
+  "directions": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "direction": {
+    "noun": 1
+  },
+  "directionless": {
+    "adjective": 1
+  },
+  "directionlessness": {
+    "noun": 1
+  },
+  "connections": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "connection": {
+    "noun": 1
+  },
+  "connectional": {
+    "adjective": 1
+  },
+  "southern": {
+    "noun": 1
+  },
+  "borders": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "plural noun": 0
+  },
+  "border": {
+    "noun": 1,
+    "verb": 0,
+    "transitive verb": 0,
+    "intransitive verb": 0
+  },
+  "bordered": {
+    "adjective": 1
+  },
+  "borderer": {
+    "noun": 1
+  },
+  "liquefied": {
+    "noun": 1
+  },
+  "terminal": {
+    "noun": 1
+  },
+  "lng": {
+    "noun": 1
+  },
+  "northwest": {
+    "noun": 1
+  },
+  "port": {
+    "noun": 1
+  },
+  "swinoujscie": {
+    "noun": 1
+  },
+  "underground": {
+    "noun": 1
+  },
+  "storage": {
+    "noun": 1
+  },
+  "80%": {
+    "noun": 1
+  },
+  "full": {
+    "noun": 1
+  },
+  "balance": {
+    "noun": 1
+  },
+  "sheet": {
+    "noun": 1
+  },
+  "supplemented": {
+    "noun": 1
+  },
+  "production": {
+    "noun": 1
+  },
+  "fuel": {
+    "noun": 1
+  },
+  "reserves": {
+    "plural noun": 1
+  },
+  "accumulated": {
+    "noun": 1
+  },
+  "facilities": {
+    "noun": 1
+  },
+  "currently": {
+    "noun": 1
+  },
+  "warehouse": {
+    "noun": 1
+  },
+  "filling": {
+    "noun": 1
+  },
+  "80": {
+    "noun": 1
+  },
+  "percent": {
+    "noun": 1
+  },
+  "corresponding": {
+    "noun": 1
+  },
+  "previous": {
+    "noun": 1
+  },
+  "joint": {
+    "noun": 1
+  },
+  "chiefs": {
+    "plural noun": 1
+  },
+  "milley": {
+    "noun": 1
+  },
+  "sciutto": {
+    "noun": 1
+  },
+  "entire": {
+    "noun": 1
+  },
+  "global": {
+    "noun": 1
+  },
+  "ii": {
+    "noun": 1
+  },
+  "gets": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "auxiliary verb": 0,
+    "noun (1)": 0,
+    "noun (2)": 0
+  },
+  "get": {
+    "verb": 1,
+    "transitive verb": 0,
+    "intransitive verb": 0,
+    "auxiliary verb": 0,
+    "noun (1)": 0,
+    "noun (2)": 0
+  },
+  "away": {
+    "noun": 1
+  },
+  "exclusively": {
+    "noun": 1
+  },
+  "conclusion": {
+    "noun": 1
+  },
+  "hosted": {
+    "past tense verb": 1
+  },
+  "allied": {
+    "noun": 1
+  },
+  "gathered": {
+    "noun": 1
+  },
+  "situation": {
+    "noun": 1
+  },
+  "left": {
+    "noun": 1
+  },
+  "stand": {
+    "noun": 1
+  },
+  "aggression": {
+    "noun": 1
+  },
+  "goes": {
+    "noun": 1
+  },
+  "so-called": {
+    "noun": 1
+  },
+  "happens": {
+    "verb": 1,
+    "intransitive verb": 0
+  },
+  "happen": {
+    "verb": 1,
+    "intransitive verb": 0
+  },
+  "entering": {
+    "active verb": 1
+  },
+  "increased": {
+    "noun": 1
+  },
+  "instability": {
+    "noun": 1
+  },
+  "1945": {
+    "noun": 1
+  },
+  "lasted": {
+    "past tense verb": 1
+  },
+  "78": {
+    "noun": 1
+  },
+  "prevented": {
+    "noun": 1
+  },
+  "great": {
+    "noun": 1
+  },
+  "underlining": {
+    "noun": 1
+  },
+  "concept": {
+    "noun": 1
+  },
+  "idea": {
+    "noun": 1
+  },
+  "conduct": {
+    "noun": 1
+  },
+  "smaller": {
+    "noun": 1
+  },
+  "happened": {
+    "past tense verb": 1
+  },
+  "here": {
+    "noun": 1
+  },
+  "unprovoked": {
+    "noun": 1
+  },
+  "implications": {
+    "noun": 1,
+    "plural noun": 0
+  },
+  "implication": {
+    "noun": 1
+  },
+  "implicative": {
+    "adjective": 1
+  },
+  "implicatively": {
+    "adverb": 1
+  },
+  "implicativeness": {
+    "noun": 1
+  },
+  "sense": {
+    "noun": 1
+  },
+  "urgency": {
+    "noun": 1
+  },
+  "felt": {
+    "noun": 1
+  },
+  "enters": {
+    "plural noun": 1
+  },
+  "critical": {
+    "noun": 1
+  },
+  "juncture": {
+    "noun": 1
+  }
+}
